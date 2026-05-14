@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!--cd frontend python -m http.server 5500 -->
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>E-Commerce System</title>
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+
+    <!-- Header Section -->
+
+    <header>
+
+        <div id="menu-bar" class="fas fa-bars"></div>
+
+        <a href="#" class="logo">
+            E-Commerce
+        </a>
+
+        <nav class="navbar">
+
+            <a href="orders.html">Orders</a>
+            <a href="products.html">products</a>
+            <a href="cart.html">cart</a>
+            <a href="login.html">login</a>
+
+        </nav>
+
+        <div class="icons">
+
+            <a href="#" class="fas fa-heart"></a>
+
+            <a href="cart.html" class="fas fa-shopping-cart"></a>
+
+            <a href="login.html" class="fas fa-user"></a>
+
+        </div>
+
+    </header>
+
+
+<!-- Home Section Starts -->
+
+<section class="home" id="home">
+
+    <!-- Slide 1 -->
+
+    <div class="slide-container active">
+
+        <div class="slide">
+
+            <div class="content">
+
+                <span>Nike Shoes</span>
+
+                <h3>Modern Shopping Experience</h3>
+
+                <p>
+                    Browse products, manage your cart,
+                    and place orders.
+                </p>
+
+                <a href="#products" class="btn">
+                    Shop Now
+                </a>
+
+            </div>
+
+            <div class="image">
+
+                <img src="images/home-shoe-1.png"
+                    class="shoe" alt="">
+
+                <img src="images/home-text-1.png"
+                    class="text" alt="">
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <!-- Slide 2 -->
+
+    <div class="slide-container">
+
+        <div class="slide">
+
+            <div class="content">
+
+                <span>Nike Shoes</span>
+
+                <h3>Reliable for Sports</h3>
+
+                <p>
+                    Browse products, manage your cart,
+                    and place orders.
+                </p>
+
+                <a href="#products" class="btn">
+                    Explore Products
+                </a>
+
+            </div>
+
+            <div class="image">
+
+                <img src="images/home-shoe-2.png"
+                    class="shoe" alt="">
+
+                <img src="images/home-text-2.png"
+                    class="text" alt="">
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <!-- Slide 3 -->
+
+    <div class="slide-container">
+
+        <div class="slide">
+
+            <div class="content">
+
+                <span>Nike Shoes</span>
+
+                <h3>Custom Offers</h3>
+
+                <p>
+                    Browse products, manage your cart,
+                    and place orders.
+                </p>
+
+                <a href="#products" class="btn">
+                    Start Shopping
+                </a>
+
+            </div>
+
+            <div class="image">
+
+                <img src="images/home-shoe-3.png"
+                    class="shoe" alt="">
+
+                <img src="images/home-text-3.png"
+                    class="text" alt="">
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <!-- Slider Buttons -->
+
+    <div id="prev"
+        class="fas fa-chevron-left"
+        onclick="prev()"></div>
+
+    <div id="next"
+        class="fas fa-chevron-right"
+        onclick="next()"></div>
+
+</section>
+
+<!-- Home Section Ends -->
+
+    <!-- Footer -->
+
+
+
+
+    <!-- Scripts -->
+
+    <script src="js/main.js"></script>
+
+    <script src="js/products.js"></script>
+
+</body>
+
+</html>

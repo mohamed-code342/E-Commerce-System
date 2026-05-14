@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Products</title>
+
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <!-- =========================
+        HEADER
+========================= -->
+
+<header class="main-header">
+
+    <!-- Navbar -->
+
+    <nav class="navbar">
+
+        <a href="index.html">Home</a>
+
+        <a href="products.html">Products</a>
+
+        <a href="cart.html">Cart</a>
+
+        <a href="orders.html">Orders</a>
+
+    </nav>
+
+
+    <!-- Icons -->
+
+    <div class="icons">
+
+        <a href="#" class="fas fa-heart"></a>
+
+        <a href="cart.html" class="fas fa-shopping-cart"></a>
+
+        <a href="login.html" class="fas fa-user"></a>
+
+    </div>
+
+</header>
+
+    <section class="products-hero">
+        <div class="hero-overlay">
+            <h1>Discover Your Style</h1>
+            <p>Explore premium shoes</p>
+        </div>
+    </section>
+
+    <section class="products-shop">
+
+<div class="shop-filters">
+
+    <input
+        class="filter-input"
+        type="text"
+        id="search-input"
+        placeholder="Search products...">
+
+    <input
+        class="filter-input price-input"
+        type="number"
+        id="min-price"
+        placeholder="Min Price">
+
+    <input
+        class="filter-input price-input"
+        type="number"
+        id="max-price"
+        placeholder="Max Price">
+
+    <button class="filter-pill" id="apply-filters">
+        Apply Filters
+    </button>
+
+    <button class="filter-pill" data-category="">
+        All Categories
+    </button>
+
+<button class="filter-pill" data-category="1">
+    Shoes
+</button>
+
+<button class="filter-pill" data-category="2">
+    Sandal
+</button>
+
+<button class="filter-pill" data-category="3">
+    Nike Air
+</button>
+
+
+</div>
+
+        
+
+        <h1 class="shop-title">
+            Products For You!
+        </h1>
+
+        <div class="shop-grid" id="products-container"></div>
+
+        <div class="shop-pagination">
+
+            <button class="shop-add-btn" id="prev-page">
+                Prev
+            </button>
+
+            <span id="page-number">1</span>
+
+            <button class="shop-add-btn" id="next-page">
+                Next
+            </button>
+
+        </div>
+
+    </section>
+
+    <script src="js/products.js"></script>
+
+</body>
+
+</html>
