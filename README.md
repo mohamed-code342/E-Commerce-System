@@ -264,7 +264,6 @@ pytest
 * Admin-only routes require JWT authentication with an admin account.
 * Redis must be running to enable caching.
 * If Redis is not available, the application continues running without cache.
-* Docker integration was not included in this version.
 
 ```
 ```
