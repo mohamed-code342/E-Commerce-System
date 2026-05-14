@@ -1,0 +1,1970 @@
+2026-05-14 00:50:01,047 | INFO | GET | /docs | Status: 200 | Time: 0.0010s
+2026-05-14 00:50:01,207 | INFO | GET | /openapi.json | Status: 200 | Time: 0.0660s
+2026-05-14 00:51:48,906 | INFO | POST | /products/ | Status: 401 | Time: 0.0090s
+2026-05-14 01:15:14,880 | INFO | GET | /docs | Status: 200 | Time: 0.0000s
+2026-05-14 01:15:15,117 | INFO | GET | /openapi.json | Status: 200 | Time: 0.0660s
+2026-05-14 01:28:30,510 | INFO | GET | /docs | Status: 200 | Time: 0.0010s
+2026-05-14 01:28:30,677 | INFO | GET | /openapi.json | Status: 200 | Time: 0.0570s
+2026-05-14 01:28:41,916 | INFO | GET | /monitoring/dashboard | Status: 401 | Time: 0.0050s
+2026-05-14 01:47:16,000 | INFO | GET | /docs | Status: 200 | Time: 0.0000s
+2026-05-14 01:47:16,180 | INFO | GET | /openapi.json | Status: 200 | Time: 0.0700s
+2026-05-14 01:47:23,743 | INFO | GET | /performance/cache-test | Status: 200 | Time: 0.0150s
+2026-05-14 04:38:38,876 | INFO | GET | /docs | Status: 200 | Time: 0.0000s
+2026-05-14 04:38:39,072 | INFO | GET | /openapi.json | Status: 200 | Time: 0.0560s
+2026-05-14 04:38:57,889 | INFO | User registered successfully: user@example.com
+2026-05-14 04:38:57,891 | INFO | POST | /users/register | Status: 200 | Time: 0.0410s
+2026-05-14 04:39:14,245 | INFO | POST | /users/token | Status: 200 | Time: 0.0130s
+2026-05-14 04:54:25,859 | INFO | POST | /auth/login | Status: 404 | Time: 0.0010s
+2026-05-14 04:54:31,429 | INFO | POST | /auth/login | Status: 404 | Time: 0.0000s
+2026-05-14 04:54:35,449 | INFO | POST | /auth/login | Status: 404 | Time: 0.0000s
+2026-05-14 04:59:46,501 | INFO | POST | /auth/login | Status: 404 | Time: 0.0031s
+2026-05-14 04:59:46,502 | INFO | POST | /auth/login | Status: 404 | Time: 0.0040s
+2026-05-14 04:59:46,502 | INFO | POST | /auth/login | Status: 404 | Time: 0.0040s
+2026-05-14 04:59:46,502 | INFO | POST | /auth/login | Status: 404 | Time: 0.0040s
+2026-05-14 04:59:46,502 | INFO | POST | /auth/login | Status: 404 | Time: 0.0040s
+2026-05-14 04:59:46,502 | INFO | POST | /auth/login | Status: 404 | Time: 0.0049s
+2026-05-14 04:59:46,503 | INFO | POST | /auth/login | Status: 404 | Time: 0.0052s
+2026-05-14 04:59:46,503 | INFO | POST | /auth/login | Status: 404 | Time: 0.0054s
+2026-05-14 04:59:46,503 | INFO | POST | /auth/login | Status: 404 | Time: 0.0054s
+2026-05-14 04:59:46,503 | INFO | POST | /auth/login | Status: 404 | Time: 0.0044s
+2026-05-14 04:59:46,503 | INFO | POST | /auth/login | Status: 404 | Time: 0.0044s
+2026-05-14 04:59:47,214 | INFO | POST | /auth/login | Status: 404 | Time: 0.0000s
+2026-05-14 04:59:52,678 | INFO | POST | /auth/login | Status: 404 | Time: 0.0000s
+2026-05-14 05:02:09,612 | INFO | POST | /auth/login | Status: 404 | Time: 0.0000s
+2026-05-14 05:02:15,234 | INFO | POST | /auth/login | Status: 404 | Time: 0.0000s
+2026-05-14 05:02:22,426 | INFO | POST | /auth/login | Status: 404 | Time: 0.0000s
+2026-05-14 05:03:50,776 | INFO | POST | /auth/login | Status: 404 | Time: 0.0010s
+2026-05-14 05:04:10,338 | INFO | POST | /auth/login | Status: 404 | Time: 0.0000s
+2026-05-14 05:04:18,554 | INFO | POST | /auth/login | Status: 404 | Time: 0.0000s
+2026-05-14 05:04:54,585 | INFO | POST | /auth/login | Status: 404 | Time: 0.0000s
+2026-05-14 05:05:22,681 | INFO | POST | /auth/login | Status: 404 | Time: 0.0000s
+2026-05-14 05:05:27,077 | INFO | POST | /auth/login | Status: 404 | Time: 0.0000s
+2026-05-14 05:06:04,780 | INFO | POST | /auth/login | Status: 404 | Time: 0.0009s
+2026-05-14 05:06:12,780 | INFO | POST | /auth/login | Status: 404 | Time: 0.0000s
+2026-05-14 05:07:22,302 | INFO | User logged in successfully: user@example.com
+2026-05-14 05:07:22,303 | INFO | POST | /users/login | Status: 200 | Time: 0.0307s
+2026-05-14 05:09:04,826 | INFO | OPTIONS | /users/login | Status: 200 | Time: 0.0000s
+2026-05-14 05:09:04,839 | INFO | User logged in successfully: admin@gmail.com
+2026-05-14 05:09:04,840 | INFO | POST | /users/login | Status: 200 | Time: 0.0117s
+2026-05-14 05:09:34,074 | INFO | User logged in successfully: admin@gmail.com
+2026-05-14 05:09:34,075 | INFO | POST | /users/login | Status: 200 | Time: 0.0120s
+2026-05-14 05:12:03,191 | INFO | User logged in successfully: admin@gmail.com
+2026-05-14 05:12:03,191 | INFO | POST | /users/login | Status: 200 | Time: 0.0120s
+2026-05-14 05:16:40,938 | INFO | OPTIONS | /users/register | Status: 200 | Time: 0.0010s
+2026-05-14 05:16:40,965 | INFO | User registered successfully: testfront@gmail.com
+2026-05-14 05:16:40,966 | INFO | POST | /users/register | Status: 200 | Time: 0.0265s
+2026-05-14 05:16:57,946 | INFO | User logged in successfully: testfront@gmail.com
+2026-05-14 05:16:57,947 | INFO | POST | /users/login | Status: 200 | Time: 0.0120s
+2026-05-14 05:17:41,973 | INFO | User logged in successfully: testfront@gmail.com
+2026-05-14 05:17:41,974 | INFO | POST | /users/login | Status: 200 | Time: 0.0110s
+2026-05-14 05:18:43,285 | INFO | User logged in successfully: admin@gmail.com
+2026-05-14 05:18:43,286 | INFO | POST | /users/login | Status: 200 | Time: 0.0120s
+2026-05-14 05:22:37,438 | INFO | OPTIONS | /users/login | Status: 200 | Time: 0.0000s
+2026-05-14 05:22:37,454 | WARNING | Wrong password attempt: admin@gmail.com
+2026-05-14 05:22:37,456 | INFO | POST | /users/login | Status: 401 | Time: 0.0148s
+2026-05-14 05:31:31,624 | WARNING | Wrong password attempt: admin@gmail.com
+2026-05-14 05:31:31,628 | INFO | POST | /users/login | Status: 401 | Time: 0.0150s
+2026-05-14 05:31:36,382 | INFO | User logged in successfully: admin@gmail.com
+2026-05-14 05:31:36,383 | INFO | POST | /users/login | Status: 200 | Time: 0.0120s
+2026-05-14 05:43:00,510 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:43:00,515 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0100s
+2026-05-14 05:43:37,896 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:43:37,898 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 05:43:53,981 | INFO | Product search executed | name=None, category_id=1, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:43:53,984 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 05:43:54,200 | INFO | Product search executed | name=None, category_id=1, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:43:54,202 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 05:44:07,042 | INFO | GET | /docs | Status: 200 | Time: 0.0020s
+2026-05-14 05:44:07,223 | INFO | GET | /openapi.json | Status: 200 | Time: 0.0860s
+2026-05-14 05:44:20,241 | INFO | POST | /users/token | Status: 200 | Time: 0.0123s
+2026-05-14 05:44:45,502 | INFO | GET | /categories/ | Status: 200 | Time: 0.0120s
+2026-05-14 05:45:13,394 | INFO | Token validated for user ID: 1
+2026-05-14 05:45:13,411 | INFO | POST | /categories/ | Status: 200 | Time: 0.0240s
+2026-05-14 05:45:36,775 | INFO | Token validated for user ID: 1
+2026-05-14 05:45:36,813 | INFO | POST | /categories/ | Status: 200 | Time: 0.0421s
+2026-05-14 05:45:43,097 | INFO | Token validated for user ID: 1
+2026-05-14 05:45:43,111 | INFO | POST | /categories/ | Status: 200 | Time: 0.0170s
+2026-05-14 05:45:52,115 | INFO | GET | /categories/ | Status: 200 | Time: 0.0021s
+2026-05-14 05:46:46,385 | INFO | Token validated for user ID: 1
+2026-05-14 05:46:46,398 | INFO | Product created: Nike Air Shoes White
+2026-05-14 05:46:46,400 | INFO | POST | /products/ | Status: 201 | Time: 0.0180s
+2026-05-14 05:47:18,360 | INFO | Token validated for user ID: 1
+2026-05-14 05:47:18,371 | INFO | Product created: Black Shoes
+2026-05-14 05:47:18,373 | INFO | POST | /products/ | Status: 201 | Time: 0.0140s
+2026-05-14 05:47:27,200 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:47:27,203 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 05:47:43,658 | INFO | Product search executed | name=None, category_id=1, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:47:43,660 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0031s
+2026-05-14 05:47:45,293 | INFO | Product search executed | name=None, category_id=2, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:47:45,295 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 05:47:48,360 | INFO | Product search executed | name=None, category_id=3, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:47:48,362 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 05:48:00,552 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:48:00,554 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0031s
+2026-05-14 05:48:04,325 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=2, limit=8
+2026-05-14 05:48:04,327 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 05:48:05,467 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:48:05,469 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 05:49:27,274 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:49:27,277 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0050s
+2026-05-14 05:49:36,801 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:49:36,803 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 05:49:38,080 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:49:38,082 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 05:49:38,295 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:49:38,297 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0031s
+2026-05-14 05:49:39,764 | INFO | Product search executed | name=None, category_id=1, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:49:39,766 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 05:49:40,464 | INFO | Product search executed | name=None, category_id=2, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:49:40,466 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 05:49:42,158 | INFO | Product search executed | name=None, category_id=3, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:49:42,160 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0029s
+2026-05-14 05:50:22,066 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:50:22,070 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0060s
+2026-05-14 05:50:24,552 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=2, limit=8
+2026-05-14 05:50:24,554 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0031s
+2026-05-14 05:50:25,962 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:50:25,964 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0026s
+2026-05-14 05:50:49,298 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:50:49,299 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0029s
+2026-05-14 05:50:57,111 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:50:57,112 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 05:50:57,795 | INFO | Product search executed | name=None, category_id=1, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:50:57,797 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0031s
+2026-05-14 05:50:58,429 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:50:58,430 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0020s
+2026-05-14 05:52:12,503 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:52:12,504 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 05:53:57,310 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:53:57,312 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 05:54:25,527 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:54:25,530 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0050s
+2026-05-14 05:54:59,201 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:54:59,205 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0050s
+2026-05-14 05:55:01,574 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:55:01,576 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 05:55:07,453 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0689s
+2026-05-14 05:55:08,422 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:55:08,424 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 05:55:10,401 | INFO | Product search executed | name=n, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:55:10,402 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 05:55:10,692 | INFO | Product search executed | name=ni, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:55:10,694 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 05:55:10,992 | INFO | Product search executed | name=nik, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:55:10,994 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 05:55:11,156 | INFO | Product search executed | name=nike, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:55:11,157 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 05:55:11,615 | INFO | Product search executed | name=nik, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:55:11,617 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 05:55:11,799 | INFO | Product search executed | name=ni, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:55:11,801 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 05:55:11,944 | INFO | Product search executed | name=n, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:55:11,946 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 05:55:12,084 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:55:12,086 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 05:55:12,970 | INFO | Product search executed | name=B, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:55:12,972 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 05:55:13,293 | INFO | Product search executed | name=Bl, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:55:13,295 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 05:55:13,422 | INFO | Product search executed | name=Bla, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:55:13,424 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0032s
+2026-05-14 05:55:13,674 | INFO | Product search executed | name=Blas, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:55:13,676 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 05:55:14,039 | INFO | Product search executed | name=Bla, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:55:14,041 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 05:55:14,359 | INFO | Product search executed | name=Bl, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:55:14,361 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 05:55:14,680 | INFO | Product search executed | name=B, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:55:14,681 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 05:55:14,839 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:55:14,841 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 05:55:17,776 | INFO | Product search executed | name=None, category_id=2, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:55:17,778 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 05:55:21,740 | INFO | Product search executed | name=b, category_id=2, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:55:21,742 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 05:55:22,010 | INFO | Product search executed | name=bl, category_id=2, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:55:22,012 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 05:55:22,114 | INFO | Product search executed | name=bla, category_id=2, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:55:22,116 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 05:55:22,356 | INFO | Product search executed | name=blac, category_id=2, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:55:22,357 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 05:55:22,401 | INFO | Product search executed | name=black, category_id=2, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:55:22,404 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0060s
+2026-05-14 05:55:24,083 | INFO | Product search executed | name=black, category_id=3, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:55:24,084 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0024s
+2026-05-14 05:55:25,644 | INFO | Product search executed | name=black, category_id=3, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:55:25,646 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 05:55:27,951 | INFO | Product search executed | name=n, category_id=3, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:55:27,953 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 05:55:28,198 | INFO | Product search executed | name=ni, category_id=3, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:55:28,200 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0026s
+2026-05-14 05:55:28,374 | INFO | Product search executed | name=nik, category_id=3, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:55:28,376 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 05:55:28,466 | INFO | Product search executed | name=nike, category_id=3, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:55:28,468 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0028s
+2026-05-14 05:55:31,024 | INFO | Product search executed | name=nike, category_id=3, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:55:31,026 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 05:55:34,160 | INFO | Product search executed | name=b, category_id=3, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:55:34,161 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 05:55:34,405 | INFO | Product search executed | name=bl, category_id=3, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:55:34,407 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 05:55:36,422 | INFO | Product search executed | name=bl, category_id=1, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:55:36,424 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0031s
+2026-05-14 05:55:37,290 | INFO | Product search executed | name=bl, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:55:37,291 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 05:55:39,395 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:55:39,397 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 05:55:57,639 | INFO | Product search executed | name=None, category_id=None, min_price=300.0, max_price=1500.0, page=1, limit=8
+2026-05-14 05:55:57,642 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0060s
+2026-05-14 05:57:11,098 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:57:11,101 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 05:57:36,020 | INFO | Product search executed | name=None, category_id=2, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 05:57:36,022 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 06:01:00,167 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:01:00,171 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0060s
+2026-05-14 06:01:27,690 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:01:27,693 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 06:01:32,188 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0080s
+2026-05-14 06:01:33,231 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:01:33,233 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 06:01:34,115 | INFO | Product search executed | name=n, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:01:34,117 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0031s
+2026-05-14 06:01:35,732 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:01:35,735 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 06:01:36,683 | INFO | Product search executed | name=b, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:01:36,686 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 06:01:37,058 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:01:37,059 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0026s
+2026-05-14 06:01:54,013 | INFO | Product search executed | name=None, category_id=None, min_price=1200.0, max_price=1300.0, page=1, limit=8
+2026-05-14 06:01:54,015 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 06:02:02,322 | INFO | Product search executed | name=None, category_id=None, min_price=1000.0, max_price=1300.0, page=1, limit=8
+2026-05-14 06:02:02,324 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 06:02:12,219 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:02:12,221 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 06:03:29,362 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:03:29,365 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 06:03:39,909 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:03:39,910 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0029s
+2026-05-14 06:03:41,894 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:03:41,896 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0032s
+2026-05-14 06:03:42,689 | INFO | Product search executed | name=None, category_id=1, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:03:42,691 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 06:03:44,851 | INFO | Product search executed | name=None, category_id=2, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:03:44,852 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0025s
+2026-05-14 06:03:46,843 | INFO | Product search executed | name=None, category_id=3, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:03:46,844 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 06:03:49,331 | INFO | Product search executed | name=None, category_id=1, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:03:49,333 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0033s
+2026-05-14 06:03:51,027 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:03:51,028 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0025s
+2026-05-14 06:04:55,587 | INFO | Token validated for user ID: 1
+2026-05-14 06:04:55,626 | INFO | Product created: Red Shoes
+2026-05-14 06:04:55,628 | INFO | POST | /products/ | Status: 201 | Time: 0.0430s
+2026-05-14 06:05:17,805 | INFO | Token validated for user ID: 1
+2026-05-14 06:05:17,838 | INFO | Product created: Blue Shoes
+2026-05-14 06:05:17,840 | INFO | POST | /products/ | Status: 201 | Time: 0.0370s
+2026-05-14 06:05:20,172 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:05:20,175 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0050s
+2026-05-14 06:07:32,367 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:07:32,371 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0060s
+2026-05-14 06:08:49,268 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:08:49,271 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0050s
+2026-05-14 06:09:33,045 | INFO | Product search executed | name=None, category_id=None, min_price=1200.0, max_price=2000.0, page=1, limit=8
+2026-05-14 06:09:33,047 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 06:09:40,737 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:09:40,738 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 06:10:59,974 | INFO | Token validated for user ID: 1
+2026-05-14 06:10:59,978 | INFO | GET | /cart/ | Status: 200 | Time: 0.0080s
+2026-05-14 06:15:55,941 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:15:55,947 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0080s
+2026-05-14 06:17:34,143 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:17:34,148 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0050s
+2026-05-14 06:18:36,269 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:18:36,274 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0070s
+2026-05-14 06:18:59,434 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:18:59,437 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 06:23:07,381 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:23:07,385 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0060s
+2026-05-14 06:23:09,863 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:23:09,866 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0050s
+2026-05-14 06:23:25,114 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:23:25,118 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0060s
+2026-05-14 06:23:58,350 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:23:58,353 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0050s
+2026-05-14 06:24:16,519 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:24:16,523 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0060s
+2026-05-14 06:25:24,130 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:25:24,133 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 06:25:42,020 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:25:42,022 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 06:26:21,130 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:26:21,132 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 06:26:28,886 | INFO | Product search executed | name=None, category_id=1, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:26:28,887 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0031s
+2026-05-14 06:26:30,270 | INFO | Product search executed | name=None, category_id=2, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:26:30,272 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 06:26:31,806 | INFO | Product search executed | name=None, category_id=3, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:26:31,808 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0031s
+2026-05-14 06:26:34,410 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:26:34,412 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0031s
+2026-05-14 06:26:35,576 | INFO | Product search executed | name=None, category_id=1, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:26:35,579 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0031s
+2026-05-14 06:26:36,850 | INFO | Product search executed | name=None, category_id=2, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:26:36,852 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 06:26:38,001 | INFO | Product search executed | name=None, category_id=3, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:26:38,003 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 06:26:40,766 | INFO | Product search executed | name=None, category_id=1, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:26:40,768 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0032s
+2026-05-14 06:26:42,617 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:26:42,619 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 06:26:45,542 | INFO | Product search executed | name=n, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:26:45,544 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 06:26:45,697 | INFO | Product search executed | name=ni, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:26:45,702 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0061s
+2026-05-14 06:26:45,870 | INFO | Product search executed | name=nik, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:26:45,872 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 06:26:45,962 | INFO | Product search executed | name=nike, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:26:45,963 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 06:26:46,532 | INFO | Product search executed | name=nik, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:26:46,534 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 06:26:46,742 | INFO | Product search executed | name=ni, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:26:46,744 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 06:26:46,887 | INFO | Product search executed | name=n, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:26:46,889 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 06:26:47,045 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:26:47,047 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 06:26:47,408 | INFO | Product search executed | name=b, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:26:47,411 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0037s
+2026-05-14 06:26:47,555 | INFO | Product search executed | name=bl, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:26:47,557 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 06:26:49,343 | INFO | Product search executed | name=blu, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:26:49,345 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 06:26:49,548 | INFO | Product search executed | name=blue, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:26:49,550 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 06:26:49,870 | INFO | Product search executed | name=blu, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:26:49,872 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 06:26:50,038 | INFO | Product search executed | name=bl, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:26:50,040 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 06:26:50,186 | INFO | Product search executed | name=b, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:26:50,188 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 06:26:50,635 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:26:50,638 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 06:26:57,827 | INFO | Product search executed | name=None, category_id=None, min_price=2000.0, max_price=None, page=1, limit=8
+2026-05-14 06:26:57,830 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 06:27:02,483 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:27:02,485 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 06:27:06,766 | INFO | Product search executed | name=None, category_id=None, min_price=1500.0, max_price=None, page=1, limit=8
+2026-05-14 06:27:06,768 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0025s
+2026-05-14 06:31:51,923 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:31:51,927 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0050s
+2026-05-14 06:32:57,689 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:32:57,692 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0050s
+2026-05-14 06:33:14,542 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:33:14,544 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 06:33:16,241 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:33:16,244 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 06:33:16,491 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:33:16,493 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 06:33:16,655 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:33:16,661 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0080s
+2026-05-14 06:33:16,817 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:33:16,819 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 06:33:17,000 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:33:17,007 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0110s
+2026-05-14 06:33:17,777 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:33:17,779 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 06:33:18,208 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:33:18,211 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0050s
+2026-05-14 06:33:40,267 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:33:40,272 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0070s
+2026-05-14 06:34:51,698 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:34:51,701 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 06:35:16,373 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:35:16,375 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 06:35:55,014 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:35:55,017 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 06:36:00,056 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:36:00,063 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0090s
+2026-05-14 06:37:09,221 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:37:09,223 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 06:37:46,039 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:37:46,042 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 06:39:28,529 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:39:28,532 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 06:40:27,423 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:40:27,426 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0050s
+2026-05-14 06:41:00,708 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:41:00,711 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 06:41:05,638 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=2, limit=8
+2026-05-14 06:41:05,639 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0019s
+2026-05-14 06:41:06,664 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:41:06,666 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 06:44:09,084 | INFO | GET | /categories/ | Status: 200 | Time: 0.0020s
+2026-05-14 06:44:36,394 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:44:36,398 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0050s
+2026-05-14 06:44:43,573 | INFO | Product search executed | name=None, category_id=1, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:44:43,574 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0029s
+2026-05-14 06:44:44,440 | INFO | Product search executed | name=None, category_id=2, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:44:44,442 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 06:44:46,049 | INFO | Product search executed | name=None, category_id=3, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:44:46,051 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0031s
+2026-05-14 06:44:48,381 | INFO | Product search executed | name=None, category_id=1, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:44:48,381 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0029s
+2026-05-14 06:45:25,400 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:45:25,404 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0050s
+2026-05-14 06:48:13,944 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:48:13,953 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0110s
+2026-05-14 06:48:16,822 | INFO | OPTIONS | /cart/ | Status: 200 | Time: 0.0010s
+2026-05-14 06:48:16,827 | ERROR | JWT token validation failed
+2026-05-14 06:48:16,828 | INFO | POST | /cart/ | Status: 401 | Time: 0.0041s
+2026-05-14 06:48:22,163 | ERROR | JWT token validation failed
+2026-05-14 06:48:22,164 | INFO | POST | /cart/ | Status: 401 | Time: 0.0019s
+2026-05-14 06:48:24,884 | ERROR | JWT token validation failed
+2026-05-14 06:48:24,885 | INFO | POST | /cart/ | Status: 401 | Time: 0.0025s
+2026-05-14 06:51:28,814 | INFO | OPTIONS | /users/login | Status: 200 | Time: 0.0000s
+2026-05-14 06:51:28,833 | INFO | User logged in successfully: admin@gmail.com
+2026-05-14 06:51:28,834 | INFO | POST | /users/login | Status: 200 | Time: 0.0170s
+2026-05-14 06:51:45,696 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 06:51:45,698 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 06:51:49,315 | INFO | Token validated for user ID: 1
+2026-05-14 06:51:49,329 | INFO | POST | /cart/ | Status: 200 | Time: 0.0162s
+2026-05-14 06:51:52,075 | INFO | Token validated for user ID: 1
+2026-05-14 06:51:52,086 | INFO | POST | /cart/ | Status: 200 | Time: 0.0130s
+2026-05-14 06:55:45,086 | INFO | Token validated for user ID: 1
+2026-05-14 06:55:45,089 | INFO | GET | /cart/ | Status: 200 | Time: 0.0050s
+2026-05-14 06:55:45,120 | INFO | Product 1 cached in Redis
+2026-05-14 06:55:45,121 | INFO | GET | /products/1 | Status: 200 | Time: 0.0060s
+2026-05-14 06:55:45,136 | INFO | Product 4 cached in Redis
+2026-05-14 06:55:45,137 | INFO | GET | /products/4 | Status: 200 | Time: 0.0030s
+2026-05-14 06:56:01,138 | INFO | Product 1 cached in Redis
+2026-05-14 06:56:01,140 | INFO | GET | /products/1 | Status: 200 | Time: 0.0050s
+2026-05-14 06:56:01,172 | INFO | Product 4 cached in Redis
+2026-05-14 06:56:01,174 | INFO | GET | /products/4 | Status: 200 | Time: 0.0070s
+2026-05-14 06:56:04,689 | INFO | Token validated for user ID: 1
+2026-05-14 06:56:04,697 | INFO | POST | /cart/ | Status: 200 | Time: 0.0110s
+2026-05-14 06:56:07,724 | INFO | Token validated for user ID: 1
+2026-05-14 06:56:07,727 | INFO | GET | /cart/ | Status: 200 | Time: 0.0060s
+2026-05-14 06:56:07,745 | INFO | Product 1 cached in Redis
+2026-05-14 06:56:07,746 | INFO | GET | /products/1 | Status: 200 | Time: 0.0040s
+2026-05-14 06:56:07,766 | INFO | Product 4 cached in Redis
+2026-05-14 06:56:07,767 | INFO | GET | /products/4 | Status: 200 | Time: 0.0040s
+2026-05-14 06:56:07,819 | INFO | Product 2 cached in Redis
+2026-05-14 06:56:07,820 | INFO | GET | /products/2 | Status: 200 | Time: 0.0020s
+2026-05-14 06:56:10,745 | INFO | Token validated for user ID: 1
+2026-05-14 06:56:10,756 | INFO | POST | /cart/ | Status: 200 | Time: 0.0128s
+2026-05-14 06:56:13,048 | INFO | Token validated for user ID: 1
+2026-05-14 06:56:13,050 | INFO | GET | /cart/ | Status: 200 | Time: 0.0050s
+2026-05-14 06:56:13,068 | INFO | Product 1 cached in Redis
+2026-05-14 06:56:13,069 | INFO | GET | /products/1 | Status: 200 | Time: 0.0030s
+2026-05-14 06:56:13,098 | INFO | Product 4 cached in Redis
+2026-05-14 06:56:13,100 | INFO | GET | /products/4 | Status: 200 | Time: 0.0050s
+2026-05-14 06:56:13,144 | INFO | Product 2 cached in Redis
+2026-05-14 06:56:13,146 | INFO | GET | /products/2 | Status: 200 | Time: 0.0030s
+2026-05-14 06:56:13,152 | INFO | Product 2 cached in Redis
+2026-05-14 06:56:13,153 | INFO | GET | /products/2 | Status: 200 | Time: 0.0020s
+2026-05-14 06:57:03,048 | INFO | Token validated for user ID: 1
+2026-05-14 06:57:03,052 | INFO | GET | /cart/ | Status: 200 | Time: 0.0070s
+2026-05-14 06:57:03,075 | INFO | Product 1 cached in Redis
+2026-05-14 06:57:03,076 | INFO | GET | /products/1 | Status: 200 | Time: 0.0060s
+2026-05-14 06:57:03,101 | INFO | Product 4 cached in Redis
+2026-05-14 06:57:03,113 | INFO | GET | /products/4 | Status: 200 | Time: 0.0170s
+2026-05-14 06:57:03,158 | INFO | Product 2 cached in Redis
+2026-05-14 06:57:03,158 | INFO | GET | /products/2 | Status: 200 | Time: 0.0060s
+2026-05-14 06:57:03,202 | INFO | Product 2 cached in Redis
+2026-05-14 06:57:03,203 | INFO | GET | /products/2 | Status: 200 | Time: 0.0040s
+2026-05-14 07:17:59,937 | INFO | OPTIONS | /cart/ | Status: 200 | Time: 0.0010s
+2026-05-14 07:17:59,976 | INFO | Token validated for user ID: 1
+2026-05-14 07:17:59,982 | INFO | GET | /cart/ | Status: 200 | Time: 0.0430s
+2026-05-14 07:18:00,028 | INFO | Product 1 cached in Redis
+2026-05-14 07:18:00,030 | INFO | GET | /products/1 | Status: 200 | Time: 0.0120s
+2026-05-14 07:18:00,045 | INFO | Product 4 cached in Redis
+2026-05-14 07:18:00,046 | INFO | GET | /products/4 | Status: 200 | Time: 0.0050s
+2026-05-14 07:18:00,059 | INFO | Product 2 cached in Redis
+2026-05-14 07:18:00,062 | INFO | GET | /products/2 | Status: 200 | Time: 0.0090s
+2026-05-14 07:18:00,086 | INFO | Product 2 cached in Redis
+2026-05-14 07:18:00,088 | INFO | GET | /products/2 | Status: 200 | Time: 0.0080s
+2026-05-14 07:18:03,338 | INFO | OPTIONS | /cart/1 | Status: 200 | Time: 0.0000s
+2026-05-14 07:18:03,342 | INFO | Token validated for user ID: 1
+2026-05-14 07:18:03,355 | INFO | PUT | /cart/1 | Status: 200 | Time: 0.0158s
+2026-05-14 07:18:03,359 | INFO | Token validated for user ID: 1
+2026-05-14 07:18:03,361 | INFO | GET | /cart/ | Status: 200 | Time: 0.0030s
+2026-05-14 07:18:03,367 | INFO | Product 1 cached in Redis
+2026-05-14 07:18:03,369 | INFO | GET | /products/1 | Status: 200 | Time: 0.0040s
+2026-05-14 07:18:03,377 | INFO | Product 4 cached in Redis
+2026-05-14 07:18:03,379 | INFO | GET | /products/4 | Status: 200 | Time: 0.0060s
+2026-05-14 07:18:03,385 | INFO | Product 2 cached in Redis
+2026-05-14 07:18:03,387 | INFO | GET | /products/2 | Status: 200 | Time: 0.0050s
+2026-05-14 07:18:03,396 | INFO | Product 2 cached in Redis
+2026-05-14 07:18:03,397 | INFO | GET | /products/2 | Status: 200 | Time: 0.0060s
+2026-05-14 07:18:05,013 | INFO | OPTIONS | /cart/2 | Status: 200 | Time: 0.0000s
+2026-05-14 07:18:05,020 | INFO | Token validated for user ID: 1
+2026-05-14 07:18:05,032 | INFO | PUT | /cart/2 | Status: 200 | Time: 0.0170s
+2026-05-14 07:18:05,038 | INFO | Token validated for user ID: 1
+2026-05-14 07:18:05,040 | INFO | GET | /cart/ | Status: 200 | Time: 0.0040s
+2026-05-14 07:18:05,047 | INFO | Product 1 cached in Redis
+2026-05-14 07:18:05,049 | INFO | GET | /products/1 | Status: 200 | Time: 0.0050s
+2026-05-14 07:18:05,059 | INFO | Product 4 cached in Redis
+2026-05-14 07:18:05,062 | INFO | GET | /products/4 | Status: 200 | Time: 0.0060s
+2026-05-14 07:18:05,070 | INFO | Product 2 cached in Redis
+2026-05-14 07:18:05,072 | INFO | GET | /products/2 | Status: 200 | Time: 0.0060s
+2026-05-14 07:18:05,081 | INFO | Product 2 cached in Redis
+2026-05-14 07:18:05,086 | INFO | GET | /products/2 | Status: 200 | Time: 0.0060s
+2026-05-14 07:18:07,716 | INFO | OPTIONS | /cart/4 | Status: 200 | Time: 0.0000s
+2026-05-14 07:18:07,720 | INFO | Token validated for user ID: 1
+2026-05-14 07:18:07,730 | INFO | PUT | /cart/4 | Status: 200 | Time: 0.0120s
+2026-05-14 07:18:07,735 | INFO | Token validated for user ID: 1
+2026-05-14 07:18:07,737 | INFO | GET | /cart/ | Status: 200 | Time: 0.0040s
+2026-05-14 07:18:07,744 | INFO | Product 1 cached in Redis
+2026-05-14 07:18:07,745 | INFO | GET | /products/1 | Status: 200 | Time: 0.0040s
+2026-05-14 07:18:07,752 | INFO | Product 4 cached in Redis
+2026-05-14 07:18:07,755 | INFO | GET | /products/4 | Status: 200 | Time: 0.0050s
+2026-05-14 07:18:07,763 | INFO | Product 2 cached in Redis
+2026-05-14 07:18:07,764 | INFO | GET | /products/2 | Status: 200 | Time: 0.0040s
+2026-05-14 07:18:11,113 | INFO | Token validated for user ID: 1
+2026-05-14 07:18:11,118 | INFO | GET | /cart/ | Status: 200 | Time: 0.0080s
+2026-05-14 07:18:11,141 | INFO | Product 1 cached in Redis
+2026-05-14 07:18:11,146 | INFO | GET | /products/1 | Status: 200 | Time: 0.0090s
+2026-05-14 07:18:11,169 | INFO | Product 4 cached in Redis
+2026-05-14 07:18:11,171 | INFO | GET | /products/4 | Status: 200 | Time: 0.0070s
+2026-05-14 07:18:11,193 | INFO | Product 2 cached in Redis
+2026-05-14 07:18:11,195 | INFO | GET | /products/2 | Status: 200 | Time: 0.0070s
+2026-05-14 07:18:15,186 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 07:18:15,195 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0130s
+2026-05-14 07:18:17,072 | INFO | OPTIONS | /cart/ | Status: 200 | Time: 0.0000s
+2026-05-14 07:18:17,078 | INFO | Token validated for user ID: 1
+2026-05-14 07:18:17,084 | ERROR | Unhandled error on /cart/: Class 'builtins.NoneType' is not mapped
+2026-05-14 07:18:28,585 | INFO | OPTIONS | /users/login | Status: 200 | Time: 0.0000s
+2026-05-14 07:18:28,607 | INFO | User logged in successfully: admin@gmail.com
+2026-05-14 07:18:28,609 | INFO | POST | /users/login | Status: 200 | Time: 0.0205s
+2026-05-14 07:18:34,910 | INFO | Token validated for user ID: 1
+2026-05-14 07:18:34,914 | INFO | GET | /cart/ | Status: 200 | Time: 0.0060s
+2026-05-14 07:18:34,941 | INFO | Product 1 cached in Redis
+2026-05-14 07:18:34,944 | INFO | GET | /products/1 | Status: 200 | Time: 0.0080s
+2026-05-14 07:18:34,962 | INFO | Product 4 cached in Redis
+2026-05-14 07:18:34,968 | INFO | GET | /products/4 | Status: 200 | Time: 0.0130s
+2026-05-14 07:18:34,997 | INFO | Product 2 cached in Redis
+2026-05-14 07:18:34,998 | INFO | GET | /products/2 | Status: 200 | Time: 0.0040s
+2026-05-14 07:18:40,134 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 07:18:40,139 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0060s
+2026-05-14 07:18:43,431 | INFO | Token validated for user ID: 1
+2026-05-14 07:18:43,438 | INFO | POST | /cart/ | Status: 200 | Time: 0.0097s
+2026-05-14 07:18:47,575 | INFO | Token validated for user ID: 1
+2026-05-14 07:18:47,578 | INFO | GET | /cart/ | Status: 200 | Time: 0.0070s
+2026-05-14 07:18:47,605 | INFO | Product 1 cached in Redis
+2026-05-14 07:18:47,608 | INFO | GET | /products/1 | Status: 200 | Time: 0.0120s
+2026-05-14 07:18:47,626 | INFO | Product 4 cached in Redis
+2026-05-14 07:18:47,630 | INFO | GET | /products/4 | Status: 200 | Time: 0.0090s
+2026-05-14 07:18:47,667 | INFO | Product 2 cached in Redis
+2026-05-14 07:18:47,668 | INFO | GET | /products/2 | Status: 200 | Time: 0.0040s
+2026-05-14 07:20:11,201 | INFO | Token validated for user ID: 1
+2026-05-14 07:20:11,205 | INFO | GET | /cart/ | Status: 200 | Time: 0.0070s
+2026-05-14 07:20:11,230 | INFO | Product 1 cached in Redis
+2026-05-14 07:20:11,232 | INFO | GET | /products/1 | Status: 200 | Time: 0.0040s
+2026-05-14 07:20:11,254 | INFO | Product 4 cached in Redis
+2026-05-14 07:20:11,255 | INFO | GET | /products/4 | Status: 200 | Time: 0.0040s
+2026-05-14 07:20:11,288 | INFO | Product 2 cached in Redis
+2026-05-14 07:20:11,289 | INFO | GET | /products/2 | Status: 200 | Time: 0.0030s
+2026-05-14 07:20:17,777 | INFO | OPTIONS | /cart/1 | Status: 200 | Time: 0.0010s
+2026-05-14 07:20:17,780 | INFO | Token validated for user ID: 1
+2026-05-14 07:20:17,791 | INFO | PUT | /cart/1 | Status: 200 | Time: 0.0120s
+2026-05-14 07:20:17,795 | INFO | Token validated for user ID: 1
+2026-05-14 07:20:17,796 | INFO | GET | /cart/ | Status: 200 | Time: 0.0030s
+2026-05-14 07:20:17,801 | INFO | Product 1 cached in Redis
+2026-05-14 07:20:17,802 | INFO | GET | /products/1 | Status: 200 | Time: 0.0020s
+2026-05-14 07:20:17,808 | INFO | Product 4 cached in Redis
+2026-05-14 07:20:17,809 | INFO | GET | /products/4 | Status: 200 | Time: 0.0030s
+2026-05-14 07:20:17,820 | INFO | Product 2 cached in Redis
+2026-05-14 07:20:17,821 | INFO | GET | /products/2 | Status: 200 | Time: 0.0040s
+2026-05-14 07:20:18,543 | INFO | Token validated for user ID: 1
+2026-05-14 07:20:18,554 | INFO | PUT | /cart/1 | Status: 200 | Time: 0.0130s
+2026-05-14 07:20:18,558 | INFO | Token validated for user ID: 1
+2026-05-14 07:20:18,560 | INFO | GET | /cart/ | Status: 200 | Time: 0.0030s
+2026-05-14 07:20:18,566 | INFO | Product 1 cached in Redis
+2026-05-14 07:20:18,567 | INFO | GET | /products/1 | Status: 200 | Time: 0.0030s
+2026-05-14 07:20:18,575 | INFO | Product 4 cached in Redis
+2026-05-14 07:20:18,577 | INFO | GET | /products/4 | Status: 200 | Time: 0.0050s
+2026-05-14 07:20:18,584 | INFO | Product 2 cached in Redis
+2026-05-14 07:20:18,585 | INFO | GET | /products/2 | Status: 200 | Time: 0.0050s
+2026-05-14 07:20:18,916 | INFO | OPTIONS | /cart/1 | Status: 200 | Time: 0.0000s
+2026-05-14 07:20:18,920 | INFO | Token validated for user ID: 1
+2026-05-14 07:20:18,931 | INFO | PUT | /cart/1 | Status: 200 | Time: 0.0130s
+2026-05-14 07:20:18,936 | INFO | Token validated for user ID: 1
+2026-05-14 07:20:18,938 | INFO | GET | /cart/ | Status: 200 | Time: 0.0040s
+2026-05-14 07:20:18,944 | INFO | Product 1 cached in Redis
+2026-05-14 07:20:18,945 | INFO | GET | /products/1 | Status: 200 | Time: 0.0030s
+2026-05-14 07:20:18,954 | INFO | Product 4 cached in Redis
+2026-05-14 07:20:18,957 | INFO | GET | /products/4 | Status: 200 | Time: 0.0070s
+2026-05-14 07:20:18,963 | INFO | Product 2 cached in Redis
+2026-05-14 07:20:18,965 | INFO | GET | /products/2 | Status: 200 | Time: 0.0050s
+2026-05-14 07:20:20,092 | INFO | Token validated for user ID: 1
+2026-05-14 07:20:20,102 | INFO | PUT | /cart/2 | Status: 200 | Time: 0.0120s
+2026-05-14 07:20:20,106 | INFO | Token validated for user ID: 1
+2026-05-14 07:20:20,108 | INFO | GET | /cart/ | Status: 200 | Time: 0.0030s
+2026-05-14 07:20:20,120 | INFO | Product 1 cached in Redis
+2026-05-14 07:20:20,122 | INFO | GET | /products/1 | Status: 200 | Time: 0.0060s
+2026-05-14 07:20:20,130 | INFO | Product 4 cached in Redis
+2026-05-14 07:20:20,133 | INFO | GET | /products/4 | Status: 200 | Time: 0.0060s
+2026-05-14 07:20:20,141 | INFO | Product 2 cached in Redis
+2026-05-14 07:20:20,143 | INFO | GET | /products/2 | Status: 200 | Time: 0.0050s
+2026-05-14 07:20:20,547 | INFO | OPTIONS | /cart/1 | Status: 200 | Time: 0.0000s
+2026-05-14 07:20:20,551 | INFO | Token validated for user ID: 1
+2026-05-14 07:20:20,560 | INFO | PUT | /cart/1 | Status: 200 | Time: 0.0110s
+2026-05-14 07:20:20,568 | INFO | Token validated for user ID: 1
+2026-05-14 07:20:20,571 | INFO | GET | /cart/ | Status: 200 | Time: 0.0070s
+2026-05-14 07:20:20,577 | INFO | Product 4 cached in Redis
+2026-05-14 07:20:20,578 | INFO | GET | /products/4 | Status: 200 | Time: 0.0030s
+2026-05-14 07:20:20,589 | INFO | Product 2 cached in Redis
+2026-05-14 07:20:20,592 | INFO | GET | /products/2 | Status: 200 | Time: 0.0070s
+2026-05-14 07:20:21,342 | INFO | OPTIONS | /cart/2 | Status: 200 | Time: 0.0010s
+2026-05-14 07:20:21,345 | INFO | Token validated for user ID: 1
+2026-05-14 07:20:21,356 | INFO | PUT | /cart/2 | Status: 200 | Time: 0.0140s
+2026-05-14 07:20:21,362 | INFO | Token validated for user ID: 1
+2026-05-14 07:20:21,364 | INFO | GET | /cart/ | Status: 200 | Time: 0.0040s
+2026-05-14 07:20:21,369 | INFO | Product 4 cached in Redis
+2026-05-14 07:20:21,370 | INFO | GET | /products/4 | Status: 200 | Time: 0.0030s
+2026-05-14 07:20:21,383 | INFO | Product 2 cached in Redis
+2026-05-14 07:20:21,384 | INFO | GET | /products/2 | Status: 200 | Time: 0.0050s
+2026-05-14 07:20:22,024 | INFO | OPTIONS | /cart/2 | Status: 200 | Time: 0.0000s
+2026-05-14 07:20:22,028 | INFO | Token validated for user ID: 1
+2026-05-14 07:20:22,037 | INFO | PUT | /cart/2 | Status: 200 | Time: 0.0110s
+2026-05-14 07:20:22,043 | INFO | Token validated for user ID: 1
+2026-05-14 07:20:22,048 | INFO | GET | /cart/ | Status: 200 | Time: 0.0080s
+2026-05-14 07:20:22,053 | INFO | Product 2 cached in Redis
+2026-05-14 07:20:22,054 | INFO | GET | /products/2 | Status: 200 | Time: 0.0030s
+2026-05-14 07:20:23,420 | INFO | OPTIONS | /cart/3 | Status: 200 | Time: 0.0010s
+2026-05-14 07:20:23,424 | INFO | Token validated for user ID: 1
+2026-05-14 07:20:23,435 | INFO | PUT | /cart/3 | Status: 200 | Time: 0.0140s
+2026-05-14 07:20:23,440 | INFO | Token validated for user ID: 1
+2026-05-14 07:20:23,442 | INFO | GET | /cart/ | Status: 200 | Time: 0.0040s
+2026-05-14 07:20:25,617 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 07:20:25,620 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 07:20:28,463 | INFO | Token validated for user ID: 1
+2026-05-14 07:20:28,466 | ERROR | Unhandled error on /cart/: Class 'builtins.NoneType' is not mapped
+2026-05-14 07:20:45,458 | INFO | User logged in successfully: admin@gmail.com
+2026-05-14 07:20:45,458 | INFO | POST | /users/login | Status: 200 | Time: 0.0130s
+2026-05-14 07:20:51,981 | INFO | Token validated for user ID: 1
+2026-05-14 07:20:51,984 | INFO | GET | /cart/ | Status: 200 | Time: 0.0060s
+2026-05-14 07:20:54,810 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 07:20:54,812 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 07:20:56,839 | INFO | Token validated for user ID: 1
+2026-05-14 07:20:56,842 | ERROR | Unhandled error on /cart/: Class 'builtins.NoneType' is not mapped
+2026-05-14 07:20:59,703 | INFO | Token validated for user ID: 1
+2026-05-14 07:20:59,705 | ERROR | Unhandled error on /cart/: Class 'builtins.NoneType' is not mapped
+2026-05-14 07:21:11,620 | INFO | User logged in successfully: admin@gmail.com
+2026-05-14 07:21:11,621 | INFO | POST | /users/login | Status: 200 | Time: 0.0130s
+2026-05-14 07:21:34,115 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 07:21:34,121 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0080s
+2026-05-14 07:21:36,505 | INFO | Token validated for user ID: 1
+2026-05-14 07:21:36,508 | ERROR | Unhandled error on /cart/: Class 'builtins.NoneType' is not mapped
+2026-05-14 07:25:15,506 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 07:25:15,510 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0170s
+2026-05-14 07:25:18,353 | INFO | Token validated for user ID: 1
+2026-05-14 07:25:18,357 | ERROR | Unhandled error on /cart/: Class 'builtins.NoneType' is not mapped
+2026-05-14 07:25:27,161 | INFO | User logged in successfully: admin@gmail.com
+2026-05-14 07:25:27,162 | INFO | POST | /users/login | Status: 200 | Time: 0.0212s
+2026-05-14 07:25:37,233 | INFO | Token validated for user ID: 1
+2026-05-14 07:25:37,238 | INFO | GET | /cart/ | Status: 200 | Time: 0.0080s
+2026-05-14 07:25:39,598 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 07:25:39,600 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 07:25:41,306 | INFO | Token validated for user ID: 1
+2026-05-14 07:25:41,309 | ERROR | Unhandled error on /cart/: Class 'builtins.NoneType' is not mapped
+2026-05-14 07:25:44,263 | INFO | Token validated for user ID: 1
+2026-05-14 07:25:44,265 | ERROR | Unhandled error on /cart/: Class 'builtins.NoneType' is not mapped
+2026-05-14 07:28:22,528 | INFO | User logged in successfully: admin@gmail.com
+2026-05-14 07:28:22,529 | INFO | POST | /users/login | Status: 200 | Time: 0.0237s
+2026-05-14 07:28:50,053 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 07:28:50,058 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0100s
+2026-05-14 07:28:52,273 | INFO | OPTIONS | /cart/ | Status: 200 | Time: 0.0000s
+2026-05-14 07:28:52,279 | INFO | Token validated for user ID: 1
+2026-05-14 07:28:52,286 | ERROR | Unhandled error on /cart/: Class 'builtins.NoneType' is not mapped
+2026-05-14 07:28:55,681 | INFO | Token validated for user ID: 1
+2026-05-14 07:28:55,683 | ERROR | Unhandled error on /cart/: Class 'builtins.NoneType' is not mapped
+2026-05-14 07:29:29,396 | INFO | GET | /docs | Status: 200 | Time: 0.0010s
+2026-05-14 07:29:29,623 | INFO | GET | /openapi.json | Status: 200 | Time: 0.0880s
+2026-05-14 07:30:30,670 | INFO | GET | /docs | Status: 200 | Time: 0.0010s
+2026-05-14 07:30:30,749 | INFO | GET | /openapi.json | Status: 200 | Time: 0.0010s
+2026-05-14 07:34:31,097 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 07:34:31,103 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0164s
+2026-05-14 07:34:34,737 | INFO | Token validated for user ID: 1
+2026-05-14 07:34:34,741 | ERROR | Unhandled error on /cart/: Class 'builtins.NoneType' is not mapped
+2026-05-14 07:34:46,164 | INFO | GET | /docs | Status: 200 | Time: 0.0000s
+2026-05-14 07:34:46,381 | INFO | GET | /openapi.json | Status: 200 | Time: 0.0546s
+2026-05-14 07:34:47,306 | INFO | GET | /docs | Status: 200 | Time: 0.0000s
+2026-05-14 07:34:47,355 | INFO | GET | /openapi.json | Status: 200 | Time: 0.0000s
+2026-05-14 07:34:50,393 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 07:34:50,396 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0050s
+2026-05-14 07:34:53,791 | INFO | Token validated for user ID: 1
+2026-05-14 07:34:53,794 | ERROR | Unhandled error on /cart/: Class 'builtins.NoneType' is not mapped
+2026-05-14 07:44:26,484 | INFO | GET | /docs | Status: 200 | Time: 0.0000s
+2026-05-14 07:44:26,699 | INFO | GET | /openapi.json | Status: 200 | Time: 0.0910s
+2026-05-14 07:44:30,435 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 07:44:30,443 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0290s
+2026-05-14 07:44:33,595 | INFO | OPTIONS | /cart/ | Status: 200 | Time: 0.0010s
+2026-05-14 07:44:33,602 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:33,615 | INFO | POST | /cart/ | Status: 200 | Time: 0.0180s
+2026-05-14 07:44:41,144 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:41,150 | INFO | GET | /cart/ | Status: 200 | Time: 0.0100s
+2026-05-14 07:44:41,210 | INFO | Product 2 cached in Redis
+2026-05-14 07:44:41,211 | INFO | GET | /products/2 | Status: 200 | Time: 0.0080s
+2026-05-14 07:44:43,387 | INFO | OPTIONS | /cart/1 | Status: 200 | Time: 0.0000s
+2026-05-14 07:44:43,392 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:43,403 | INFO | PUT | /cart/1 | Status: 200 | Time: 0.0130s
+2026-05-14 07:44:43,408 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:43,410 | INFO | GET | /cart/ | Status: 200 | Time: 0.0040s
+2026-05-14 07:44:43,415 | INFO | Product 2 cached in Redis
+2026-05-14 07:44:43,416 | INFO | GET | /products/2 | Status: 200 | Time: 0.0030s
+2026-05-14 07:44:44,061 | INFO | OPTIONS | /cart/1 | Status: 200 | Time: 0.0010s
+2026-05-14 07:44:44,066 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:44,079 | INFO | PUT | /cart/1 | Status: 200 | Time: 0.0160s
+2026-05-14 07:44:44,086 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:44,089 | INFO | GET | /cart/ | Status: 200 | Time: 0.0060s
+2026-05-14 07:44:44,097 | INFO | Product 2 cached in Redis
+2026-05-14 07:44:44,098 | INFO | GET | /products/2 | Status: 200 | Time: 0.0050s
+2026-05-14 07:44:44,577 | INFO | OPTIONS | /cart/1 | Status: 200 | Time: 0.0010s
+2026-05-14 07:44:44,581 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:44,592 | INFO | PUT | /cart/1 | Status: 200 | Time: 0.0130s
+2026-05-14 07:44:44,598 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:44,601 | INFO | GET | /cart/ | Status: 200 | Time: 0.0050s
+2026-05-14 07:44:44,608 | INFO | Product 2 cached in Redis
+2026-05-14 07:44:44,609 | INFO | GET | /products/2 | Status: 200 | Time: 0.0050s
+2026-05-14 07:44:45,093 | INFO | OPTIONS | /cart/1 | Status: 200 | Time: 0.0010s
+2026-05-14 07:44:45,096 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:45,111 | INFO | PUT | /cart/1 | Status: 200 | Time: 0.0160s
+2026-05-14 07:44:45,115 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:45,117 | INFO | GET | /cart/ | Status: 200 | Time: 0.0030s
+2026-05-14 07:44:45,122 | INFO | Product 2 cached in Redis
+2026-05-14 07:44:45,123 | INFO | GET | /products/2 | Status: 200 | Time: 0.0030s
+2026-05-14 07:44:45,595 | INFO | OPTIONS | /cart/1 | Status: 200 | Time: 0.0000s
+2026-05-14 07:44:45,600 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:45,610 | INFO | PUT | /cart/1 | Status: 200 | Time: 0.0130s
+2026-05-14 07:44:45,614 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:45,616 | INFO | GET | /cart/ | Status: 200 | Time: 0.0040s
+2026-05-14 07:44:45,622 | INFO | Product 2 cached in Redis
+2026-05-14 07:44:45,623 | INFO | GET | /products/2 | Status: 200 | Time: 0.0030s
+2026-05-14 07:44:46,070 | INFO | OPTIONS | /cart/1 | Status: 200 | Time: 0.0010s
+2026-05-14 07:44:46,076 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:46,087 | INFO | PUT | /cart/1 | Status: 200 | Time: 0.0150s
+2026-05-14 07:44:46,096 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:46,100 | INFO | GET | /cart/ | Status: 200 | Time: 0.0070s
+2026-05-14 07:44:46,105 | INFO | Product 2 cached in Redis
+2026-05-14 07:44:46,107 | INFO | GET | /products/2 | Status: 200 | Time: 0.0040s
+2026-05-14 07:44:46,252 | INFO | OPTIONS | /cart/1 | Status: 200 | Time: 0.0000s
+2026-05-14 07:44:46,256 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:46,270 | INFO | PUT | /cart/1 | Status: 200 | Time: 0.0160s
+2026-05-14 07:44:46,276 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:46,278 | INFO | GET | /cart/ | Status: 200 | Time: 0.0050s
+2026-05-14 07:44:46,285 | INFO | Product 2 cached in Redis
+2026-05-14 07:44:46,286 | INFO | GET | /products/2 | Status: 200 | Time: 0.0030s
+2026-05-14 07:44:46,440 | INFO | OPTIONS | /cart/1 | Status: 200 | Time: 0.0000s
+2026-05-14 07:44:46,446 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:46,459 | INFO | PUT | /cart/1 | Status: 200 | Time: 0.0150s
+2026-05-14 07:44:46,465 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:46,469 | INFO | GET | /cart/ | Status: 200 | Time: 0.0070s
+2026-05-14 07:44:46,477 | INFO | Product 2 cached in Redis
+2026-05-14 07:44:46,478 | INFO | GET | /products/2 | Status: 200 | Time: 0.0050s
+2026-05-14 07:44:46,627 | INFO | OPTIONS | /cart/1 | Status: 200 | Time: 0.0010s
+2026-05-14 07:44:46,631 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:46,646 | INFO | PUT | /cart/1 | Status: 200 | Time: 0.0180s
+2026-05-14 07:44:46,652 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:46,656 | INFO | GET | /cart/ | Status: 200 | Time: 0.0060s
+2026-05-14 07:44:46,662 | INFO | Product 2 cached in Redis
+2026-05-14 07:44:46,665 | INFO | GET | /products/2 | Status: 200 | Time: 0.0040s
+2026-05-14 07:44:47,845 | INFO | OPTIONS | /cart/1 | Status: 200 | Time: 0.0000s
+2026-05-14 07:44:47,850 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:47,860 | INFO | PUT | /cart/1 | Status: 200 | Time: 0.0130s
+2026-05-14 07:44:47,865 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:47,868 | INFO | GET | /cart/ | Status: 200 | Time: 0.0040s
+2026-05-14 07:44:47,875 | INFO | Product 2 cached in Redis
+2026-05-14 07:44:47,876 | INFO | GET | /products/2 | Status: 200 | Time: 0.0050s
+2026-05-14 07:44:48,933 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:48,945 | INFO | PUT | /cart/1 | Status: 200 | Time: 0.0140s
+2026-05-14 07:44:48,951 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:48,953 | INFO | GET | /cart/ | Status: 200 | Time: 0.0040s
+2026-05-14 07:44:48,960 | INFO | Product 2 cached in Redis
+2026-05-14 07:44:48,962 | INFO | GET | /products/2 | Status: 200 | Time: 0.0050s
+2026-05-14 07:44:49,294 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:49,304 | INFO | PUT | /cart/1 | Status: 200 | Time: 0.0120s
+2026-05-14 07:44:49,309 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:49,310 | INFO | GET | /cart/ | Status: 200 | Time: 0.0030s
+2026-05-14 07:44:49,317 | INFO | Product 2 cached in Redis
+2026-05-14 07:44:49,318 | INFO | GET | /products/2 | Status: 200 | Time: 0.0040s
+2026-05-14 07:44:49,712 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:49,721 | INFO | PUT | /cart/1 | Status: 200 | Time: 0.0110s
+2026-05-14 07:44:49,727 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:49,729 | INFO | GET | /cart/ | Status: 200 | Time: 0.0050s
+2026-05-14 07:44:49,739 | INFO | Product 2 cached in Redis
+2026-05-14 07:44:49,741 | INFO | GET | /products/2 | Status: 200 | Time: 0.0080s
+2026-05-14 07:44:49,941 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:49,952 | INFO | PUT | /cart/1 | Status: 200 | Time: 0.0160s
+2026-05-14 07:44:49,957 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:49,959 | INFO | GET | /cart/ | Status: 200 | Time: 0.0040s
+2026-05-14 07:44:49,967 | INFO | Product 2 cached in Redis
+2026-05-14 07:44:49,969 | INFO | GET | /products/2 | Status: 200 | Time: 0.0040s
+2026-05-14 07:44:50,250 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:50,260 | INFO | PUT | /cart/1 | Status: 200 | Time: 0.0120s
+2026-05-14 07:44:50,265 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:50,267 | INFO | GET | /cart/ | Status: 200 | Time: 0.0040s
+2026-05-14 07:44:50,274 | INFO | Product 2 cached in Redis
+2026-05-14 07:44:50,277 | INFO | GET | /products/2 | Status: 200 | Time: 0.0060s
+2026-05-14 07:44:50,640 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:50,650 | INFO | PUT | /cart/1 | Status: 200 | Time: 0.0120s
+2026-05-14 07:44:50,655 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:50,657 | INFO | GET | /cart/ | Status: 200 | Time: 0.0040s
+2026-05-14 07:44:50,664 | INFO | Product 2 cached in Redis
+2026-05-14 07:44:50,665 | INFO | GET | /products/2 | Status: 200 | Time: 0.0040s
+2026-05-14 07:44:51,061 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:51,072 | INFO | PUT | /cart/1 | Status: 200 | Time: 0.0130s
+2026-05-14 07:44:51,078 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:51,080 | INFO | GET | /cart/ | Status: 200 | Time: 0.0050s
+2026-05-14 07:44:51,088 | INFO | Product 2 cached in Redis
+2026-05-14 07:44:51,090 | INFO | GET | /products/2 | Status: 200 | Time: 0.0050s
+2026-05-14 07:44:51,420 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:51,430 | INFO | PUT | /cart/1 | Status: 200 | Time: 0.0130s
+2026-05-14 07:44:51,435 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:51,438 | INFO | GET | /cart/ | Status: 200 | Time: 0.0050s
+2026-05-14 07:44:51,446 | INFO | Product 2 cached in Redis
+2026-05-14 07:44:51,447 | INFO | GET | /products/2 | Status: 200 | Time: 0.0050s
+2026-05-14 07:44:51,939 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:51,949 | INFO | PUT | /cart/1 | Status: 200 | Time: 0.0120s
+2026-05-14 07:44:51,953 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:51,955 | INFO | GET | /cart/ | Status: 200 | Time: 0.0030s
+2026-05-14 07:44:51,963 | INFO | Product 2 cached in Redis
+2026-05-14 07:44:51,964 | INFO | GET | /products/2 | Status: 200 | Time: 0.0050s
+2026-05-14 07:44:52,379 | INFO | OPTIONS | /cart/1 | Status: 200 | Time: 0.0000s
+2026-05-14 07:44:52,384 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:52,393 | INFO | PUT | /cart/1 | Status: 200 | Time: 0.0120s
+2026-05-14 07:44:52,398 | INFO | Token validated for user ID: 1
+2026-05-14 07:44:52,401 | INFO | GET | /cart/ | Status: 200 | Time: 0.0050s
+2026-05-14 07:44:52,409 | INFO | Product 2 cached in Redis
+2026-05-14 07:44:52,410 | INFO | GET | /products/2 | Status: 200 | Time: 0.0050s
+2026-05-14 07:48:54,360 | INFO | GET | /docs | Status: 200 | Time: 0.0000s
+2026-05-14 07:48:54,566 | INFO | GET | /openapi.json | Status: 200 | Time: 0.0740s
+2026-05-14 07:48:56,544 | INFO | Token validated for user ID: 1
+2026-05-14 07:48:56,554 | INFO | GET | /cart/ | Status: 200 | Time: 0.0330s
+2026-05-14 07:48:56,590 | INFO | Product 2 cached in Redis
+2026-05-14 07:48:56,593 | INFO | GET | /products/2 | Status: 200 | Time: 0.0190s
+2026-05-14 07:48:58,329 | INFO | Token validated for user ID: 1
+2026-05-14 07:48:58,344 | INFO | PUT | /cart/1 | Status: 200 | Time: 0.0175s
+2026-05-14 07:48:58,351 | INFO | Token validated for user ID: 1
+2026-05-14 07:48:58,354 | INFO | GET | /cart/ | Status: 200 | Time: 0.0070s
+2026-05-14 07:48:58,362 | INFO | Product 2 cached in Redis
+2026-05-14 07:48:58,364 | INFO | GET | /products/2 | Status: 200 | Time: 0.0070s
+2026-05-14 07:48:58,861 | INFO | Token validated for user ID: 1
+2026-05-14 07:48:58,864 | INFO | PUT | /cart/1 | Status: 400 | Time: 0.0060s
+2026-05-14 07:49:01,462 | INFO | Token validated for user ID: 1
+2026-05-14 07:49:01,476 | INFO | PUT | /cart/1 | Status: 200 | Time: 0.0149s
+2026-05-14 07:49:01,481 | INFO | Token validated for user ID: 1
+2026-05-14 07:49:01,484 | INFO | GET | /cart/ | Status: 200 | Time: 0.0040s
+2026-05-14 07:49:01,493 | INFO | Product 2 cached in Redis
+2026-05-14 07:49:01,495 | INFO | GET | /products/2 | Status: 200 | Time: 0.0060s
+2026-05-14 07:49:01,911 | INFO | OPTIONS | /cart/1 | Status: 200 | Time: 0.0000s
+2026-05-14 07:49:01,914 | INFO | Token validated for user ID: 1
+2026-05-14 07:49:01,926 | INFO | PUT | /cart/1 | Status: 200 | Time: 0.0130s
+2026-05-14 07:49:01,932 | INFO | Token validated for user ID: 1
+2026-05-14 07:49:01,935 | INFO | GET | /cart/ | Status: 200 | Time: 0.0040s
+2026-05-14 07:49:03,901 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 07:49:03,907 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0100s
+2026-05-14 07:49:12,103 | INFO | OPTIONS | /users/login | Status: 200 | Time: 0.0000s
+2026-05-14 07:49:12,127 | INFO | User logged in successfully: admin@gmail.com
+2026-05-14 07:49:12,128 | INFO | POST | /users/login | Status: 200 | Time: 0.0230s
+2026-05-14 07:49:29,047 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 07:49:29,049 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 07:49:42,433 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=2, limit=8
+2026-05-14 07:49:42,435 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 07:49:43,318 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 07:49:43,320 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0031s
+2026-05-14 07:49:58,951 | INFO | Product search executed | name=None, category_id=None, min_price=1200.0, max_price=2000.0, page=1, limit=8
+2026-05-14 07:49:58,954 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0050s
+2026-05-14 07:50:04,618 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 07:50:04,621 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0031s
+2026-05-14 07:50:05,320 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 07:50:05,322 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 07:50:06,383 | INFO | Product search executed | name=None, category_id=1, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 07:50:06,386 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0041s
+2026-05-14 07:50:07,569 | INFO | Product search executed | name=None, category_id=2, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 07:50:07,571 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 07:50:09,294 | INFO | Product search executed | name=None, category_id=3, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 07:50:09,296 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0029s
+2026-05-14 07:50:11,056 | INFO | Product search executed | name=None, category_id=1, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 07:50:11,057 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0027s
+2026-05-14 07:50:15,393 | INFO | Product search executed | name=b, category_id=1, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 07:50:15,396 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0050s
+2026-05-14 07:50:15,614 | INFO | Product search executed | name=bl, category_id=1, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 07:50:15,616 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 07:50:15,794 | INFO | Product search executed | name=bla, category_id=1, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 07:50:15,796 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 07:50:16,260 | INFO | Product search executed | name=blac, category_id=1, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 07:50:16,262 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 07:50:16,421 | INFO | Product search executed | name=black, category_id=1, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 07:50:16,423 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 07:50:16,693 | INFO | Product search executed | name=blac, category_id=1, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 07:50:16,694 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 07:50:16,853 | INFO | Product search executed | name=bla, category_id=1, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 07:50:16,855 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 07:50:17,041 | INFO | Product search executed | name=bl, category_id=1, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 07:50:17,043 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 07:50:17,178 | INFO | Product search executed | name=b, category_id=1, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 07:50:17,180 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 07:50:17,333 | INFO | Product search executed | name=None, category_id=1, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 07:50:17,335 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 07:50:20,718 | INFO | Token validated for user ID: 1
+2026-05-14 07:50:20,732 | INFO | POST | /cart/ | Status: 200 | Time: 0.0184s
+2026-05-14 07:50:23,232 | INFO | Token validated for user ID: 1
+2026-05-14 07:50:23,244 | INFO | POST | /cart/ | Status: 200 | Time: 0.0140s
+2026-05-14 07:50:25,571 | INFO | Token validated for user ID: 1
+2026-05-14 07:50:25,582 | INFO | POST | /cart/ | Status: 200 | Time: 0.0122s
+2026-05-14 07:50:27,744 | INFO | Token validated for user ID: 1
+2026-05-14 07:50:27,754 | INFO | POST | /cart/ | Status: 200 | Time: 0.0118s
+2026-05-14 07:50:29,936 | INFO | Token validated for user ID: 1
+2026-05-14 07:50:29,939 | INFO | POST | /cart/ | Status: 400 | Time: 0.0050s
+2026-05-14 07:50:33,732 | INFO | Token validated for user ID: 1
+2026-05-14 07:50:33,735 | INFO | GET | /cart/ | Status: 200 | Time: 0.0060s
+2026-05-14 07:50:33,761 | INFO | Product 4 cached in Redis
+2026-05-14 07:50:33,764 | INFO | GET | /products/4 | Status: 200 | Time: 0.0070s
+2026-05-14 07:50:33,796 | INFO | Product 3 cached in Redis
+2026-05-14 07:50:33,802 | INFO | GET | /products/3 | Status: 200 | Time: 0.0120s
+2026-05-14 07:50:35,760 | INFO | OPTIONS | /cart/2 | Status: 200 | Time: 0.0000s
+2026-05-14 07:50:35,764 | INFO | Token validated for user ID: 1
+2026-05-14 07:50:35,766 | INFO | PUT | /cart/2 | Status: 400 | Time: 0.0041s
+2026-05-14 07:50:38,052 | INFO | Token validated for user ID: 1
+2026-05-14 07:50:38,055 | INFO | PUT | /cart/1 | Status: 400 | Time: 0.0038s
+2026-05-14 07:52:56,035 | INFO | Token validated for user ID: 1
+2026-05-14 07:52:56,044 | INFO | PUT | /cart/1 | Status: 200 | Time: 0.0116s
+2026-05-14 07:52:56,051 | INFO | Token validated for user ID: 1
+2026-05-14 07:52:56,053 | INFO | GET | /cart/ | Status: 200 | Time: 0.0039s
+2026-05-14 07:52:56,060 | INFO | Product 4 cached in Redis
+2026-05-14 07:52:56,061 | INFO | GET | /products/4 | Status: 200 | Time: 0.0030s
+2026-05-14 07:52:56,070 | INFO | Product 3 cached in Redis
+2026-05-14 07:52:56,072 | INFO | GET | /products/3 | Status: 200 | Time: 0.0050s
+2026-05-14 07:52:57,163 | INFO | Token validated for user ID: 1
+2026-05-14 07:52:57,176 | INFO | PUT | /cart/1 | Status: 200 | Time: 0.0160s
+2026-05-14 07:52:57,182 | INFO | Token validated for user ID: 1
+2026-05-14 07:52:57,185 | INFO | GET | /cart/ | Status: 200 | Time: 0.0060s
+2026-05-14 07:52:57,192 | INFO | Product 4 cached in Redis
+2026-05-14 07:52:57,193 | INFO | GET | /products/4 | Status: 200 | Time: 0.0040s
+2026-05-14 07:52:57,201 | INFO | Product 3 cached in Redis
+2026-05-14 07:52:57,203 | INFO | GET | /products/3 | Status: 200 | Time: 0.0050s
+2026-05-14 07:58:55,354 | INFO | OPTIONS | /cart/ | Status: 200 | Time: 0.0000s
+2026-05-14 07:58:55,362 | INFO | Token validated for user ID: 1
+2026-05-14 07:58:55,368 | INFO | GET | /cart/ | Status: 200 | Time: 0.0110s
+2026-05-14 07:58:55,417 | INFO | Product 4 cached in Redis
+2026-05-14 07:58:55,418 | INFO | GET | /products/4 | Status: 200 | Time: 0.0040s
+2026-05-14 07:58:55,449 | INFO | Product 3 cached in Redis
+2026-05-14 07:58:55,451 | INFO | GET | /products/3 | Status: 200 | Time: 0.0050s
+2026-05-14 07:58:57,569 | INFO | OPTIONS | /orders/ | Status: 200 | Time: 0.0000s
+2026-05-14 07:58:57,574 | INFO | Token validated for user ID: 1
+2026-05-14 07:58:57,608 | INFO | POST | /orders/ | Status: 200 | Time: 0.0375s
+2026-05-14 07:58:59,250 | INFO | Token validated for user ID: 1
+2026-05-14 07:58:59,254 | INFO | GET | /orders/ | Status: 200 | Time: 0.0100s
+2026-05-14 07:59:08,246 | INFO | Token validated for user ID: 1
+2026-05-14 07:59:08,250 | INFO | GET | /orders/ | Status: 200 | Time: 0.0060s
+2026-05-14 07:59:48,882 | INFO | GET | /orders/ | Status: 401 | Time: 0.0010s
+2026-05-14 07:59:59,756 | INFO | POST | /users/token | Status: 200 | Time: 0.0121s
+2026-05-14 08:00:05,144 | INFO | Token validated for user ID: 1
+2026-05-14 08:00:05,147 | INFO | GET | /orders/ | Status: 200 | Time: 0.0150s
+2026-05-14 08:00:37,733 | INFO | OPTIONS | /users/login | Status: 200 | Time: 0.0000s
+2026-05-14 08:00:37,742 | WARNING | Failed login attempt: shahd@gmail.com
+2026-05-14 08:00:37,744 | INFO | POST | /users/login | Status: 401 | Time: 0.0070s
+2026-05-14 08:03:52,228 | INFO | GET | /docs | Status: 200 | Time: 0.0000s
+2026-05-14 08:03:52,398 | INFO | GET | /openapi.json | Status: 200 | Time: 0.0670s
+2026-05-14 08:04:05,629 | INFO | GET | /users/ | Status: 401 | Time: 0.0080s
+2026-05-14 08:05:21,418 | INFO | GET | /docs | Status: 200 | Time: 0.0011s
+2026-05-14 08:05:21,569 | INFO | GET | /openapi.json | Status: 200 | Time: 0.0690s
+2026-05-14 08:07:35,141 | INFO | GET | /docs | Status: 200 | Time: 0.0000s
+2026-05-14 08:07:35,302 | INFO | GET | /openapi.json | Status: 200 | Time: 0.0700s
+2026-05-14 08:08:25,995 | INFO | POST | /users/token | Status: 200 | Time: 0.0230s
+2026-05-14 08:08:34,594 | INFO | Token validated for user ID: 1
+2026-05-14 08:08:34,601 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 08:08:34,611 | INFO | GET | /users/ | Status: 200 | Time: 0.0281s
+2026-05-14 08:09:11,526 | INFO | User logged in successfully: test@example.com
+2026-05-14 08:09:11,527 | INFO | POST | /users/login | Status: 200 | Time: 0.0130s
+2026-05-14 08:09:17,612 | INFO | OPTIONS | /cart/ | Status: 200 | Time: 0.0010s
+2026-05-14 08:09:17,623 | INFO | Token validated for user ID: 2
+2026-05-14 08:09:17,629 | INFO | GET | /cart/ | Status: 200 | Time: 0.0120s
+2026-05-14 08:09:34,467 | INFO | User logged in successfully: admin@gmail.com
+2026-05-14 08:09:34,468 | INFO | POST | /users/login | Status: 200 | Time: 0.0130s
+2026-05-14 08:09:38,882 | INFO | Token validated for user ID: 1
+2026-05-14 08:09:38,885 | INFO | GET | /cart/ | Status: 200 | Time: 0.0080s
+2026-05-14 08:09:49,992 | INFO | OPTIONS | /orders/ | Status: 200 | Time: 0.0000s
+2026-05-14 08:09:50,002 | INFO | Token validated for user ID: 1
+2026-05-14 08:09:50,009 | INFO | GET | /orders/ | Status: 200 | Time: 0.0140s
+2026-05-14 08:09:58,065 | INFO | User logged in successfully: testfront@gmail.com
+2026-05-14 08:09:58,065 | INFO | POST | /users/login | Status: 200 | Time: 0.0130s
+2026-05-14 08:10:11,537 | INFO | Token validated for user ID: 5
+2026-05-14 08:10:11,539 | INFO | GET | /cart/ | Status: 200 | Time: 0.0050s
+2026-05-14 08:10:12,838 | INFO | Token validated for user ID: 5
+2026-05-14 08:10:12,843 | INFO | GET | /orders/ | Status: 200 | Time: 0.0070s
+2026-05-14 08:20:12,998 | INFO | OPTIONS | /users/login | Status: 200 | Time: 0.0010s
+2026-05-14 08:20:13,027 | INFO | User logged in successfully: admin@gmail.com
+2026-05-14 08:20:13,028 | INFO | POST | /users/login | Status: 200 | Time: 0.0278s
+2026-05-14 08:20:50,610 | INFO | User logged in successfully: admin@gmail.com
+2026-05-14 08:20:50,610 | INFO | POST | /users/login | Status: 200 | Time: 0.0135s
+2026-05-14 08:22:49,704 | INFO | User logged in successfully: admin@gmail.com
+2026-05-14 08:22:49,705 | INFO | POST | /users/login | Status: 200 | Time: 0.0130s
+2026-05-14 08:25:57,224 | INFO | User logged in successfully: admin@gmail.com
+2026-05-14 08:25:57,225 | INFO | POST | /users/login | Status: 200 | Time: 0.0120s
+2026-05-14 08:26:43,209 | INFO | User logged in successfully: admin@gmail.com
+2026-05-14 08:26:43,209 | INFO | POST | /users/login | Status: 200 | Time: 0.0111s
+2026-05-14 08:27:05,384 | INFO | User logged in successfully: admin@gmail.com
+2026-05-14 08:27:05,385 | INFO | POST | /users/login | Status: 200 | Time: 0.0110s
+2026-05-14 08:27:20,702 | INFO | OPTIONS | /orders/ | Status: 200 | Time: 0.0000s
+2026-05-14 08:27:20,711 | INFO | Token validated for user ID: 1
+2026-05-14 08:27:20,725 | INFO | GET | /orders/ | Status: 200 | Time: 0.0200s
+2026-05-14 08:30:18,568 | INFO | GET | /docs | Status: 200 | Time: 0.0010s
+2026-05-14 08:30:18,568 | INFO | GET | /docs | Status: 200 | Time: 0.0010s
+2026-05-14 08:30:18,715 | INFO | GET | /openapi.json | Status: 200 | Time: 0.0510s
+2026-05-14 08:30:46,350 | INFO | GET | /orders/ | Status: 401 | Time: 0.0070s
+2026-05-14 08:31:00,550 | INFO | POST | /users/token | Status: 200 | Time: 0.0200s
+2026-05-14 08:31:07,367 | INFO | Token validated for user ID: 1
+2026-05-14 08:31:07,380 | INFO | GET | /orders/ | Status: 200 | Time: 0.0160s
+2026-05-14 08:31:15,487 | INFO | Token validated for user ID: 1
+2026-05-14 08:31:15,502 | INFO | Order deleted successfully | order_id=1 | user_id=1
+2026-05-14 08:31:15,503 | INFO | DELETE | /orders/1 | Status: 200 | Time: 0.0200s
+2026-05-14 08:31:36,117 | INFO | Token validated for user ID: 1
+2026-05-14 08:31:36,120 | INFO | GET | /orders/ | Status: 200 | Time: 0.0050s
+2026-05-14 08:31:45,409 | INFO | OPTIONS | /users/login | Status: 200 | Time: 0.0011s
+2026-05-14 08:31:45,426 | INFO | User logged in successfully: testfront@gmail.com
+2026-05-14 08:31:45,426 | INFO | POST | /users/login | Status: 200 | Time: 0.0158s
+2026-05-14 08:31:52,597 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 08:31:52,601 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0070s
+2026-05-14 08:31:55,397 | INFO | OPTIONS | /cart/ | Status: 200 | Time: 0.0000s
+2026-05-14 08:31:55,402 | INFO | Token validated for user ID: 5
+2026-05-14 08:31:55,417 | INFO | POST | /cart/ | Status: 200 | Time: 0.0179s
+2026-05-14 08:31:57,631 | INFO | Token validated for user ID: 5
+2026-05-14 08:31:57,634 | INFO | POST | /cart/ | Status: 400 | Time: 0.0050s
+2026-05-14 08:32:06,081 | INFO | Token validated for user ID: 5
+2026-05-14 08:32:06,085 | INFO | GET | /cart/ | Status: 200 | Time: 0.0080s
+2026-05-14 08:32:06,130 | INFO | Product 2 cached in Redis
+2026-05-14 08:32:06,134 | INFO | GET | /products/2 | Status: 200 | Time: 0.0080s
+2026-05-14 08:32:12,638 | INFO | Token validated for user ID: 5
+2026-05-14 08:32:12,669 | INFO | POST | /orders/ | Status: 200 | Time: 0.0346s
+2026-05-14 08:32:14,290 | INFO | Token validated for user ID: 5
+2026-05-14 08:32:14,294 | INFO | GET | /orders/ | Status: 200 | Time: 0.0070s
+2026-05-14 08:32:23,722 | INFO | User logged in successfully: admin@gmail.com
+2026-05-14 08:32:23,723 | INFO | POST | /users/login | Status: 200 | Time: 0.0130s
+2026-05-14 08:32:28,074 | INFO | Token validated for user ID: 1
+2026-05-14 08:32:28,077 | INFO | GET | /orders/ | Status: 200 | Time: 0.0050s
+2026-05-14 08:32:33,339 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 08:32:33,342 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 08:33:02,347 | INFO | User logged in successfully: admin@gmail.com
+2026-05-14 08:33:02,349 | INFO | POST | /users/login | Status: 200 | Time: 0.0132s
+2026-05-14 08:37:21,433 | INFO | OPTIONS | /orders/ | Status: 200 | Time: 0.0000s
+2026-05-14 08:37:21,438 | INFO | Token validated for user ID: 1
+2026-05-14 08:37:21,442 | INFO | GET | /orders/ | Status: 200 | Time: 0.0060s
+2026-05-14 08:42:14,459 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 08:42:14,462 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0070s
+2026-05-14 08:49:44,312 | INFO | OPTIONS | /users/ | Status: 200 | Time: 0.0010s
+2026-05-14 08:49:44,315 | INFO | OPTIONS | /orders/all | Status: 200 | Time: 0.0030s
+2026-05-14 08:49:44,352 | INFO | Token validated for user ID: 1
+2026-05-14 08:49:44,356 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 08:49:44,366 | INFO | GET | /users/ | Status: 200 | Time: 0.0500s
+2026-05-14 08:49:44,369 | INFO | Token validated for user ID: 1
+2026-05-14 08:49:44,377 | INFO | GET | /orders/all | Status: 200 | Time: 0.0520s
+2026-05-14 08:49:46,250 | INFO | Token validated for user ID: 1
+2026-05-14 08:49:46,252 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 08:49:46,253 | INFO | GET | /users/ | Status: 200 | Time: 0.0042s
+2026-05-14 08:50:06,503 | INFO | OPTIONS | /users/4 | Status: 200 | Time: 0.0000s
+2026-05-14 08:50:06,507 | INFO | Token validated for user ID: 1
+2026-05-14 08:50:06,525 | INFO | User deleted successfully | deleted_user_id=4 | admin_id=1
+2026-05-14 08:50:06,527 | INFO | DELETE | /users/4 | Status: 200 | Time: 0.0220s
+2026-05-14 08:50:07,820 | INFO | Token validated for user ID: 1
+2026-05-14 08:50:07,822 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 08:50:07,824 | INFO | GET | /users/ | Status: 200 | Time: 0.0070s
+2026-05-14 08:50:11,709 | INFO | Token validated for user ID: 1
+2026-05-14 08:50:11,709 | INFO | Token validated for user ID: 1
+2026-05-14 08:50:11,712 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 08:50:11,713 | INFO | GET | /orders/all | Status: 200 | Time: 0.0110s
+2026-05-14 08:50:11,715 | INFO | GET | /users/ | Status: 200 | Time: 0.0140s
+2026-05-14 08:50:17,868 | INFO | Token validated for user ID: 1
+2026-05-14 08:50:17,870 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 08:50:17,871 | INFO | GET | /users/ | Status: 200 | Time: 0.0039s
+2026-05-14 08:50:19,657 | INFO | Token validated for user ID: 1
+2026-05-14 08:50:19,658 | INFO | GET | /orders/all | Status: 200 | Time: 0.0032s
+2026-05-14 08:53:12,087 | INFO | GET | /docs | Status: 200 | Time: 0.0010s
+2026-05-14 08:53:12,309 | INFO | GET | /openapi.json | Status: 200 | Time: 0.0890s
+2026-05-14 08:53:15,765 | INFO | OPTIONS | /products/search/ | Status: 200 | Time: 0.0010s
+2026-05-14 08:53:15,780 | INFO | Token validated for user ID: 1
+2026-05-14 08:53:15,781 | INFO | Token validated for user ID: 1
+2026-05-14 08:53:15,782 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 08:53:15,790 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 08:53:15,796 | INFO | GET | /orders/all | Status: 200 | Time: 0.0290s
+2026-05-14 08:53:15,797 | INFO | GET | /users/ | Status: 200 | Time: 0.0300s
+2026-05-14 08:53:15,798 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0299s
+2026-05-14 08:53:41,982 | INFO | OPTIONS | /products/ | Status: 200 | Time: 0.0000s
+2026-05-14 08:53:41,988 | INFO | Token validated for user ID: 1
+2026-05-14 08:53:42,000 | INFO | Product created: test
+2026-05-14 08:53:42,002 | INFO | POST | /products/ | Status: 201 | Time: 0.0170s
+2026-05-14 08:53:43,144 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 08:53:43,146 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 08:53:47,967 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 08:53:47,973 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0070s
+2026-05-14 08:54:14,199 | INFO | OPTIONS | /products/5 | Status: 200 | Time: 0.0010s
+2026-05-14 08:54:14,204 | INFO | Token validated for user ID: 1
+2026-05-14 08:54:14,218 | WARNING | Product deleted: test
+2026-05-14 08:54:14,219 | INFO | DELETE | /products/5 | Status: 200 | Time: 0.0180s
+2026-05-14 08:54:15,412 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 08:54:15,415 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 08:58:26,525 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 08:58:26,529 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0060s
+2026-05-14 08:58:56,359 | INFO | Token validated for user ID: 1
+2026-05-14 08:58:56,366 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 08:58:56,369 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 08:58:56,369 | INFO | Token validated for user ID: 1
+2026-05-14 08:58:56,372 | INFO | GET | /users/ | Status: 200 | Time: 0.0170s
+2026-05-14 08:58:56,375 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0130s
+2026-05-14 08:58:56,378 | INFO | GET | /orders/all | Status: 200 | Time: 0.0200s
+2026-05-14 08:59:14,141 | INFO | OPTIONS | /products/1 | Status: 200 | Time: 0.0000s
+2026-05-14 08:59:14,147 | INFO | Token validated for user ID: 1
+2026-05-14 08:59:14,150 | INFO | Product updated: Nike Air Shoes White
+2026-05-14 08:59:14,153 | INFO | PUT | /products/1 | Status: 200 | Time: 0.0100s
+2026-05-14 08:59:22,118 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 08:59:22,120 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 08:59:54,721 | INFO | OPTIONS | /orders/all | Status: 200 | Time: 0.0000s
+2026-05-14 08:59:54,725 | INFO | Token validated for user ID: 1
+2026-05-14 08:59:54,728 | INFO | GET | /orders/all | Status: 200 | Time: 0.0049s
+2026-05-14 09:03:55,824 | INFO | OPTIONS | /users/ | Status: 200 | Time: 0.0010s
+2026-05-14 09:03:55,836 | INFO | OPTIONS | /products/search/ | Status: 200 | Time: 0.0080s
+2026-05-14 09:03:55,845 | ERROR | JWT token validation failed
+2026-05-14 09:03:55,852 | ERROR | JWT token validation failed
+2026-05-14 09:03:55,872 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 09:03:55,877 | INFO | GET | /orders/all | Status: 401 | Time: 0.0480s
+2026-05-14 09:03:55,880 | INFO | GET | /users/ | Status: 401 | Time: 0.0390s
+2026-05-14 09:03:55,883 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0380s
+2026-05-14 09:04:15,691 | ERROR | JWT token validation failed
+2026-05-14 09:04:15,694 | ERROR | JWT token validation failed
+2026-05-14 09:04:15,699 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 09:04:15,699 | INFO | GET | /users/ | Status: 401 | Time: 0.0140s
+2026-05-14 09:04:15,702 | INFO | GET | /orders/all | Status: 401 | Time: 0.0160s
+2026-05-14 09:04:15,705 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0150s
+2026-05-14 09:04:26,485 | INFO | OPTIONS | /users/login | Status: 200 | Time: 0.0000s
+2026-05-14 09:04:26,512 | INFO | User logged in successfully: admin@gmail.com
+2026-05-14 09:04:26,514 | INFO | POST | /users/login | Status: 200 | Time: 0.0270s
+2026-05-14 09:04:27,895 | INFO | Token validated for user ID: 1
+2026-05-14 09:04:27,898 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 09:04:27,900 | INFO | GET | /users/ | Status: 200 | Time: 0.0100s
+2026-05-14 09:04:27,908 | INFO | Token validated for user ID: 1
+2026-05-14 09:04:27,911 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 09:04:27,916 | INFO | GET | /orders/all | Status: 200 | Time: 0.0160s
+2026-05-14 09:04:27,921 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0170s
+2026-05-14 09:04:36,838 | INFO | OPTIONS | /orders/1/status | Status: 200 | Time: 0.0000s
+2026-05-14 09:04:36,843 | INFO | Token validated for user ID: 1
+2026-05-14 09:04:36,848 | INFO | Order status updated | order_id=1 | status=delivered | admin_id=1
+2026-05-14 09:04:36,849 | INFO | PUT | /orders/1/status | Status: 200 | Time: 0.0089s
+2026-05-14 09:04:38,338 | INFO | Token validated for user ID: 1
+2026-05-14 09:04:38,341 | INFO | GET | /orders/all | Status: 200 | Time: 0.0060s
+2026-05-14 09:04:39,972 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 09:04:39,973 | INFO | Token validated for user ID: 1
+2026-05-14 09:04:39,974 | INFO | Token validated for user ID: 1
+2026-05-14 09:04:39,977 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0090s
+2026-05-14 09:04:39,977 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 09:04:39,981 | INFO | GET | /orders/all | Status: 200 | Time: 0.0140s
+2026-05-14 09:04:39,982 | INFO | GET | /users/ | Status: 200 | Time: 0.0170s
+2026-05-14 09:04:43,716 | INFO | Token validated for user ID: 1
+2026-05-14 09:04:43,718 | INFO | Order status updated | order_id=1 | status=delivered | admin_id=1
+2026-05-14 09:04:43,719 | INFO | PUT | /orders/1/status | Status: 200 | Time: 0.0056s
+2026-05-14 09:04:45,428 | INFO | Token validated for user ID: 1
+2026-05-14 09:04:45,432 | INFO | GET | /orders/all | Status: 200 | Time: 0.0050s
+2026-05-14 09:04:46,793 | INFO | Token validated for user ID: 1
+2026-05-14 09:04:46,795 | INFO | GET | /orders/all | Status: 200 | Time: 0.0040s
+2026-05-14 09:04:47,589 | INFO | Token validated for user ID: 1
+2026-05-14 09:04:47,591 | INFO | GET | /orders/all | Status: 200 | Time: 0.0040s
+2026-05-14 09:04:47,759 | INFO | Token validated for user ID: 1
+2026-05-14 09:04:47,761 | INFO | GET | /orders/all | Status: 200 | Time: 0.0040s
+2026-05-14 09:04:47,990 | INFO | Token validated for user ID: 1
+2026-05-14 09:04:47,992 | INFO | GET | /orders/all | Status: 200 | Time: 0.0031s
+2026-05-14 09:04:49,253 | INFO | OPTIONS | /orders/1/status | Status: 200 | Time: 0.0010s
+2026-05-14 09:04:49,257 | INFO | Token validated for user ID: 1
+2026-05-14 09:04:49,259 | INFO | Order status updated | order_id=1 | status=pending | admin_id=1
+2026-05-14 09:04:49,260 | INFO | PUT | /orders/1/status | Status: 200 | Time: 0.0050s
+2026-05-14 09:04:50,706 | INFO | Token validated for user ID: 1
+2026-05-14 09:04:50,709 | INFO | GET | /orders/all | Status: 200 | Time: 0.0050s
+2026-05-14 09:05:03,378 | INFO | Token validated for user ID: 1
+2026-05-14 09:05:03,381 | INFO | Order status updated | order_id=1 | status=pending | admin_id=1
+2026-05-14 09:05:03,382 | INFO | PUT | /orders/1/status | Status: 200 | Time: 0.0060s
+2026-05-14 09:05:05,013 | INFO | Token validated for user ID: 1
+2026-05-14 09:05:05,017 | INFO | GET | /orders/all | Status: 200 | Time: 0.0061s
+2026-05-14 09:05:05,990 | INFO | Token validated for user ID: 1
+2026-05-14 09:05:05,991 | INFO | GET | /orders/all | Status: 200 | Time: 0.0030s
+2026-05-14 09:05:09,327 | INFO | OPTIONS | /orders/1/status | Status: 200 | Time: 0.0000s
+2026-05-14 09:05:09,331 | INFO | Token validated for user ID: 1
+2026-05-14 09:05:09,333 | INFO | Order status updated | order_id=1 | status=cancelled | admin_id=1
+2026-05-14 09:05:09,334 | INFO | PUT | /orders/1/status | Status: 200 | Time: 0.0050s
+2026-05-14 09:05:10,608 | INFO | Token validated for user ID: 1
+2026-05-14 09:05:10,614 | INFO | GET | /orders/all | Status: 200 | Time: 0.0110s
+2026-05-14 09:05:13,161 | INFO | Token validated for user ID: 1
+2026-05-14 09:05:13,163 | INFO | GET | /orders/all | Status: 200 | Time: 0.0040s
+2026-05-14 09:09:39,566 | ERROR | Unhandled error on /users/: Mapper 'Mapper[Order(orders)]' has no property 'user'.  If this property was indicated from other mappers or configure events, ensure registry.configure() has been called.
+2026-05-14 09:09:39,567 | ERROR | Unhandled error on /orders/all: One or more mappers failed to initialize - can't proceed with initialization of other mappers. Triggering mapper: 'Mapper[User(users)]'. Original exception was: Mapper 'Mapper[Order(orders)]' has no property 'user'.  If this property was indicated from other mappers or configure events, ensure registry.configure() has been called.
+2026-05-14 09:09:39,660 | ERROR | Unhandled error on /products/search/: One or more mappers failed to initialize - can't proceed with initialization of other mappers. Triggering mapper: 'Mapper[User(users)]'. Original exception was: Mapper 'Mapper[Order(orders)]' has no property 'user'.  If this property was indicated from other mappers or configure events, ensure registry.configure() has been called.
+2026-05-14 09:09:52,717 | ERROR | Unhandled error on /users/: One or more mappers failed to initialize - can't proceed with initialization of other mappers. Triggering mapper: 'Mapper[User(users)]'. Original exception was: Mapper 'Mapper[Order(orders)]' has no property 'user'.  If this property was indicated from other mappers or configure events, ensure registry.configure() has been called.
+2026-05-14 09:09:52,722 | ERROR | Unhandled error on /products/search/: One or more mappers failed to initialize - can't proceed with initialization of other mappers. Triggering mapper: 'Mapper[User(users)]'. Original exception was: Mapper 'Mapper[Order(orders)]' has no property 'user'.  If this property was indicated from other mappers or configure events, ensure registry.configure() has been called.
+2026-05-14 09:09:52,723 | ERROR | Unhandled error on /orders/all: One or more mappers failed to initialize - can't proceed with initialization of other mappers. Triggering mapper: 'Mapper[User(users)]'. Original exception was: Mapper 'Mapper[Order(orders)]' has no property 'user'.  If this property was indicated from other mappers or configure events, ensure registry.configure() has been called.
+2026-05-14 09:09:59,179 | INFO | OPTIONS | /orders/all | Status: 200 | Time: 0.0010s
+2026-05-14 09:09:59,189 | ERROR | Unhandled error on /products/search/: One or more mappers failed to initialize - can't proceed with initialization of other mappers. Triggering mapper: 'Mapper[User(users)]'. Original exception was: Mapper 'Mapper[Order(orders)]' has no property 'user'.  If this property was indicated from other mappers or configure events, ensure registry.configure() has been called.
+2026-05-14 09:09:59,189 | ERROR | Unhandled error on /users/: One or more mappers failed to initialize - can't proceed with initialization of other mappers. Triggering mapper: 'Mapper[User(users)]'. Original exception was: Mapper 'Mapper[Order(orders)]' has no property 'user'.  If this property was indicated from other mappers or configure events, ensure registry.configure() has been called.
+2026-05-14 09:09:59,213 | ERROR | Unhandled error on /orders/all: One or more mappers failed to initialize - can't proceed with initialization of other mappers. Triggering mapper: 'Mapper[User(users)]'. Original exception was: Mapper 'Mapper[Order(orders)]' has no property 'user'.  If this property was indicated from other mappers or configure events, ensure registry.configure() has been called.
+2026-05-14 09:11:07,683 | INFO | PUT | /users/1/status | Status: 401 | Time: 0.0020s
+2026-05-14 09:11:15,773 | ERROR | Unhandled error on /users/token: One or more mappers failed to initialize - can't proceed with initialization of other mappers. Triggering mapper: 'Mapper[User(users)]'. Original exception was: Mapper 'Mapper[Order(orders)]' has no property 'user'.  If this property was indicated from other mappers or configure events, ensure registry.configure() has been called.
+2026-05-14 09:13:05,608 | INFO | Token validated for user ID: 1
+2026-05-14 09:13:05,612 | INFO | Token validated for user ID: 1
+2026-05-14 09:13:05,613 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 09:13:05,621 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 09:13:05,635 | INFO | GET | /orders/all | Status: 200 | Time: 0.0640s
+2026-05-14 09:13:05,644 | INFO | GET | /users/ | Status: 200 | Time: 0.0850s
+2026-05-14 09:13:05,650 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0700s
+2026-05-14 09:13:08,037 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 09:13:08,038 | INFO | Token validated for user ID: 1
+2026-05-14 09:13:08,039 | INFO | Token validated for user ID: 1
+2026-05-14 09:13:08,042 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 09:13:08,043 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0110s
+2026-05-14 09:13:08,050 | INFO | GET | /users/ | Status: 200 | Time: 0.0190s
+2026-05-14 09:13:08,053 | INFO | GET | /orders/all | Status: 200 | Time: 0.0210s
+2026-05-14 09:13:14,233 | INFO | OPTIONS | /orders/1/status | Status: 200 | Time: 0.0000s
+2026-05-14 09:13:14,238 | INFO | Token validated for user ID: 1
+2026-05-14 09:13:14,246 | INFO | Order status updated | order_id=1 | status=shipped | admin_id=1
+2026-05-14 09:13:14,248 | INFO | PUT | /orders/1/status | Status: 200 | Time: 0.0120s
+2026-05-14 09:13:15,627 | INFO | Token validated for user ID: 1
+2026-05-14 09:13:15,629 | INFO | GET | /orders/all | Status: 200 | Time: 0.0050s
+2026-05-14 09:13:16,954 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 09:13:16,954 | INFO | Token validated for user ID: 1
+2026-05-14 09:13:16,955 | INFO | Token validated for user ID: 1
+2026-05-14 09:13:16,957 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0070s
+2026-05-14 09:13:16,961 | INFO | GET | /orders/all | Status: 200 | Time: 0.0120s
+2026-05-14 09:13:16,962 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 09:13:16,965 | INFO | GET | /users/ | Status: 200 | Time: 0.0150s
+2026-05-14 09:13:37,057 | INFO | POST | /users/token | Status: 200 | Time: 0.0130s
+2026-05-14 09:13:42,681 | INFO | Token validated for user ID: 1
+2026-05-14 09:13:42,683 | INFO | PUT | /users/1/status | Status: 400 | Time: 0.0051s
+2026-05-14 09:13:49,431 | INFO | Token validated for user ID: 1
+2026-05-14 09:13:49,434 | INFO | Order status updated | order_id=1 | status=shipped | admin_id=1
+2026-05-14 09:13:49,436 | INFO | PUT | /users/1/status | Status: 200 | Time: 0.0070s
+2026-05-14 09:14:03,913 | INFO | OPTIONS | /users/ | Status: 200 | Time: 0.0010s
+2026-05-14 09:14:03,915 | INFO | OPTIONS | /products/search/ | Status: 200 | Time: 0.0020s
+2026-05-14 09:14:03,925 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 09:14:03,925 | INFO | Token validated for user ID: 1
+2026-05-14 09:14:03,926 | INFO | Token validated for user ID: 1
+2026-05-14 09:14:03,929 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0100s
+2026-05-14 09:14:03,933 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 09:14:03,936 | INFO | GET | /orders/all | Status: 200 | Time: 0.0200s
+2026-05-14 09:14:03,939 | INFO | GET | /users/ | Status: 200 | Time: 0.0230s
+2026-05-14 09:14:07,361 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 09:14:07,361 | INFO | Token validated for user ID: 1
+2026-05-14 09:14:07,361 | INFO | Token validated for user ID: 1
+2026-05-14 09:14:07,364 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0070s
+2026-05-14 09:14:07,368 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 09:14:07,369 | INFO | GET | /orders/all | Status: 200 | Time: 0.0120s
+2026-05-14 09:14:07,372 | INFO | GET | /users/ | Status: 200 | Time: 0.0150s
+2026-05-14 09:14:19,890 | INFO | Token validated for user ID: 1
+2026-05-14 09:14:19,894 | INFO | Order status updated | order_id=1 | status=shipped | admin_id=1
+2026-05-14 09:14:19,896 | INFO | PUT | /users/1/status | Status: 200 | Time: 0.0080s
+2026-05-14 09:15:34,230 | INFO | Token validated for user ID: 1
+2026-05-14 09:15:34,236 | INFO | GET | /orders/ | Status: 200 | Time: 0.0180s
+2026-05-14 09:15:45,599 | INFO | Token validated for user ID: 1
+2026-05-14 09:15:45,613 | INFO | Order status updated | order_id=1 | status=shipped | admin_id=1
+2026-05-14 09:15:45,615 | INFO | PUT | /users/1/status | Status: 200 | Time: 0.0181s
+2026-05-14 09:15:45,810 | INFO | Token validated for user ID: 1
+2026-05-14 09:15:45,813 | INFO | Order status updated | order_id=1 | status=shipped | admin_id=1
+2026-05-14 09:15:45,814 | INFO | PUT | /users/1/status | Status: 200 | Time: 0.0060s
+2026-05-14 09:15:54,281 | INFO | Token validated for user ID: 1
+2026-05-14 09:15:54,288 | INFO | Order status updated | order_id=1 | status=pending | admin_id=1
+2026-05-14 09:15:54,289 | INFO | PUT | /users/1/status | Status: 200 | Time: 0.0120s
+2026-05-14 09:23:00,771 | INFO | OPTIONS | /orders/all | Status: 200 | Time: 0.0019s
+2026-05-14 09:23:00,799 | INFO | Token validated for user ID: 1
+2026-05-14 09:23:00,803 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 09:23:00,812 | INFO | Token validated for user ID: 1
+2026-05-14 09:23:00,816 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0440s
+2026-05-14 09:23:00,817 | ERROR | Unhandled error on /orders/all: (sqlite3.OperationalError) no such column: orders.status
+[SQL: SELECT orders.id AS orders_id, orders.user_id AS orders_user_id, orders.total_price AS orders_total_price, orders.status AS orders_status 
+FROM orders]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-05-14 09:23:00,819 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 09:23:00,869 | INFO | GET | /users/ | Status: 200 | Time: 0.1070s
+2026-05-14 09:23:03,710 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 09:23:03,713 | INFO | Token validated for user ID: 1
+2026-05-14 09:23:03,714 | INFO | Token validated for user ID: 1
+2026-05-14 09:23:03,718 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 09:23:03,718 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0090s
+2026-05-14 09:23:03,722 | ERROR | Unhandled error on /orders/all: (sqlite3.OperationalError) no such column: orders.status
+[SQL: SELECT orders.id AS orders_id, orders.user_id AS orders_user_id, orders.total_price AS orders_total_price, orders.status AS orders_status 
+FROM orders]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-05-14 09:23:03,725 | INFO | GET | /users/ | Status: 200 | Time: 0.0170s
+2026-05-14 09:23:06,465 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 09:23:06,465 | INFO | Token validated for user ID: 1
+2026-05-14 09:23:06,466 | INFO | Token validated for user ID: 1
+2026-05-14 09:23:06,469 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0090s
+2026-05-14 09:23:06,473 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 09:23:06,474 | ERROR | Unhandled error on /orders/all: (sqlite3.OperationalError) no such column: orders.status
+[SQL: SELECT orders.id AS orders_id, orders.user_id AS orders_user_id, orders.total_price AS orders_total_price, orders.status AS orders_status 
+FROM orders]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-05-14 09:23:06,484 | INFO | GET | /users/ | Status: 200 | Time: 0.0270s
+2026-05-14 09:23:10,575 | INFO | Token validated for user ID: 1
+2026-05-14 09:23:10,578 | INFO | Token validated for user ID: 1
+2026-05-14 09:23:10,580 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 09:23:10,582 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 09:23:10,591 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0150s
+2026-05-14 09:23:10,598 | INFO | GET | /users/ | Status: 200 | Time: 0.0260s
+2026-05-14 09:23:10,600 | ERROR | Unhandled error on /orders/all: (sqlite3.OperationalError) no such column: orders.status
+[SQL: SELECT orders.id AS orders_id, orders.user_id AS orders_user_id, orders.total_price AS orders_total_price, orders.status AS orders_status 
+FROM orders]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-05-14 09:23:13,963 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 09:23:13,964 | INFO | Token validated for user ID: 1
+2026-05-14 09:23:13,964 | INFO | Token validated for user ID: 1
+2026-05-14 09:23:13,966 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0070s
+2026-05-14 09:23:13,970 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 09:23:13,973 | ERROR | Unhandled error on /orders/all: (sqlite3.OperationalError) no such column: orders.status
+[SQL: SELECT orders.id AS orders_id, orders.user_id AS orders_user_id, orders.total_price AS orders_total_price, orders.status AS orders_status 
+FROM orders]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-05-14 09:23:13,981 | INFO | GET | /users/ | Status: 200 | Time: 0.0230s
+2026-05-14 09:30:30,280 | INFO | GET | /docs | Status: 200 | Time: 0.0000s
+2026-05-14 09:30:30,478 | INFO | GET | /openapi.json | Status: 200 | Time: 0.0790s
+2026-05-14 09:30:49,964 | INFO | OPTIONS | /users/ | Status: 200 | Time: 0.0000s
+2026-05-14 09:30:49,972 | INFO | OPTIONS | /products/search/ | Status: 200 | Time: 0.0081s
+2026-05-14 09:30:50,006 | INFO | Token validated for user ID: 1
+2026-05-14 09:30:50,008 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 09:30:50,021 | INFO | Token validated for user ID: 1
+2026-05-14 09:30:50,022 | INFO | GET | /orders/all | Status: 200 | Time: 0.0580s
+2026-05-14 09:30:50,030 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0540s
+2026-05-14 09:30:50,032 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 09:30:50,052 | INFO | GET | /users/ | Status: 200 | Time: 0.0730s
+2026-05-14 09:30:54,857 | INFO | OPTIONS | /orders/1/status | Status: 200 | Time: 0.0000s
+2026-05-14 09:30:54,862 | INFO | Token validated for user ID: 1
+2026-05-14 09:30:54,878 | INFO | Order status updated | order_id=1 | status=shipped | admin_id=1
+2026-05-14 09:30:54,879 | INFO | PUT | /orders/1/status | Status: 200 | Time: 0.0203s
+2026-05-14 09:30:56,316 | INFO | Token validated for user ID: 1
+2026-05-14 09:30:56,321 | INFO | GET | /orders/all | Status: 200 | Time: 0.0070s
+2026-05-14 09:30:57,574 | INFO | Token validated for user ID: 1
+2026-05-14 09:30:57,576 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 09:30:57,578 | INFO | Token validated for user ID: 1
+2026-05-14 09:30:57,581 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 09:30:57,582 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0100s
+2026-05-14 09:30:57,586 | INFO | GET | /orders/all | Status: 200 | Time: 0.0150s
+2026-05-14 09:30:57,589 | INFO | GET | /users/ | Status: 200 | Time: 0.0190s
+2026-05-14 09:32:00,928 | INFO | GET | /docs | Status: 200 | Time: 0.0115s
+2026-05-14 09:32:00,957 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 09:32:00,958 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 09:32:00,959 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 09:32:00,960 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 09:32:00,961 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 09:32:00,961 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 09:32:00,967 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 09:32:00,973 | INFO | Token validated for user ID: 1
+2026-05-14 09:32:00,973 | INFO | Token validated for user ID: 1
+2026-05-14 09:32:00,974 | INFO | Token validated for user ID: 1
+2026-05-14 09:32:00,974 | INFO | Token validated for user ID: 1
+2026-05-14 09:32:00,975 | INFO | Token validated for user ID: 1
+2026-05-14 09:32:00,975 | INFO | Token validated for user ID: 1
+2026-05-14 09:32:00,975 | INFO | Token validated for user ID: 1
+2026-05-14 09:32:00,975 | INFO | Token validated for user ID: 1
+2026-05-14 09:32:00,976 | INFO | Token validated for user ID: 1
+2026-05-14 09:32:00,976 | INFO | Token validated for user ID: 1
+2026-05-14 09:32:00,977 | INFO | Token validated for user ID: 1
+2026-05-14 09:32:00,978 | INFO | Token validated for user ID: 1
+2026-05-14 09:32:00,979 | INFO | Token validated for user ID: 1
+2026-05-14 09:32:00,979 | INFO | Token validated for user ID: 1
+2026-05-14 09:32:00,982 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0641s
+2026-05-14 09:32:01,000 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 09:32:01,000 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 09:32:01,002 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 09:32:01,002 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 09:32:01,002 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 09:32:01,003 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 09:32:01,016 | INFO | GET | /orders/all | Status: 200 | Time: 0.0982s
+2026-05-14 09:32:01,016 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 09:32:01,017 | INFO | GET | /orders/all | Status: 200 | Time: 0.0992s
+2026-05-14 09:32:01,021 | INFO | GET | /orders/all | Status: 200 | Time: 0.1042s
+2026-05-14 09:32:01,024 | INFO | GET | /products/search/ | Status: 200 | Time: 0.1062s
+2026-05-14 09:32:01,027 | INFO | GET | /orders/all | Status: 200 | Time: 0.1103s
+2026-05-14 09:32:01,027 | INFO | GET | /orders/all | Status: 200 | Time: 0.1103s
+2026-05-14 09:32:01,029 | INFO | GET | /users/ | Status: 200 | Time: 0.1117s
+2026-05-14 09:32:01,030 | INFO | GET | /users/ | Status: 200 | Time: 0.1127s
+2026-05-14 09:32:01,031 | INFO | GET | /users/ | Status: 200 | Time: 0.1147s
+2026-05-14 09:32:01,117 | INFO | GET | /users/ | Status: 200 | Time: 0.2010s
+2026-05-14 09:32:01,117 | INFO | GET | /users/ | Status: 200 | Time: 0.2010s
+2026-05-14 09:32:01,117 | INFO | GET | /users/ | Status: 200 | Time: 0.2010s
+2026-05-14 09:32:01,119 | INFO | GET | /orders/all | Status: 200 | Time: 0.2020s
+2026-05-14 09:32:01,122 | INFO | GET | /openapi.json | Status: 200 | Time: 0.0932s
+2026-05-14 09:32:01,125 | INFO | GET | /orders/all | Status: 200 | Time: 0.2090s
+2026-05-14 09:32:01,126 | INFO | GET | /users/ | Status: 200 | Time: 0.2080s
+2026-05-14 09:32:01,131 | INFO | GET | /products/search/ | Status: 200 | Time: 0.2135s
+2026-05-14 09:32:01,132 | INFO | GET | /products/search/ | Status: 200 | Time: 0.2155s
+2026-05-14 09:32:01,132 | INFO | GET | /products/search/ | Status: 200 | Time: 0.2155s
+2026-05-14 09:32:01,133 | INFO | GET | /products/search/ | Status: 200 | Time: 0.2165s
+2026-05-14 09:32:01,134 | INFO | GET | /products/search/ | Status: 200 | Time: 0.2175s
+2026-05-14 09:37:28,732 | INFO | OPTIONS | /orders/all | Status: 200 | Time: 0.0079s
+2026-05-14 09:37:28,734 | INFO | OPTIONS | /orders/all | Status: 200 | Time: 0.0099s
+2026-05-14 09:37:28,735 | INFO | GET | /docs | Status: 200 | Time: 0.0109s
+2026-05-14 09:37:28,736 | INFO | OPTIONS | /orders/all | Status: 200 | Time: 0.0119s
+2026-05-14 09:37:28,753 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 09:37:28,753 | ERROR | JWT token validation failed
+2026-05-14 09:37:28,753 | ERROR | JWT token validation failed
+2026-05-14 09:37:28,754 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 09:37:28,754 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 09:37:28,754 | ERROR | JWT token validation failed
+2026-05-14 09:37:28,769 | INFO | GET | /users/ | Status: 401 | Time: 0.0449s
+2026-05-14 09:37:28,769 | ERROR | JWT token validation failed
+2026-05-14 09:37:28,770 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0470s
+2026-05-14 09:37:28,771 | INFO | GET | /users/ | Status: 401 | Time: 0.0469s
+2026-05-14 09:37:28,772 | INFO | GET | /users/ | Status: 401 | Time: 0.0470s
+2026-05-14 09:37:28,774 | INFO | GET | /orders/all | Status: 401 | Time: 0.0200s
+2026-05-14 09:37:28,775 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0509s
+2026-05-14 09:37:28,779 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0540s
+2026-05-14 09:37:28,892 | INFO | GET | /openapi.json | Status: 200 | Time: 0.0570s
+2026-05-14 09:37:35,714 | ERROR | JWT token validation failed
+2026-05-14 09:37:35,714 | ERROR | JWT token validation failed
+2026-05-14 09:37:35,715 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 09:37:35,719 | INFO | GET | /users/ | Status: 401 | Time: 0.0090s
+2026-05-14 09:37:35,722 | INFO | GET | /orders/all | Status: 401 | Time: 0.0110s
+2026-05-14 09:37:35,726 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0140s
+2026-05-14 09:37:52,635 | INFO | OPTIONS | /products/ | Status: 200 | Time: 0.0000s
+2026-05-14 09:37:52,639 | ERROR | JWT token validation failed
+2026-05-14 09:37:52,640 | INFO | POST | /products/ | Status: 401 | Time: 0.0031s
+2026-05-14 09:37:56,831 | INFO | OPTIONS | /products/1 | Status: 200 | Time: 0.0000s
+2026-05-14 09:37:56,835 | ERROR | JWT token validation failed
+2026-05-14 09:37:56,836 | INFO | PUT | /products/1 | Status: 401 | Time: 0.0029s
+2026-05-14 09:38:06,946 | INFO | OPTIONS | /users/login | Status: 200 | Time: 0.0000s
+2026-05-14 09:38:06,967 | INFO | User logged in successfully: admin@gmail.com
+2026-05-14 09:38:06,968 | INFO | POST | /users/login | Status: 200 | Time: 0.0190s
+2026-05-14 09:38:08,646 | INFO | Token validated for user ID: 1
+2026-05-14 09:38:08,646 | INFO | Token validated for user ID: 1
+2026-05-14 09:38:08,648 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 09:38:08,654 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 09:38:08,654 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0130s
+2026-05-14 09:38:08,657 | INFO | GET | /users/ | Status: 200 | Time: 0.0190s
+2026-05-14 09:38:08,662 | INFO | GET | /orders/all | Status: 200 | Time: 0.0230s
+2026-05-14 09:38:40,989 | INFO | GET | /monitoring | Status: 404 | Time: 0.0010s
+2026-05-14 09:38:40,998 | INFO | Token validated for user ID: 1
+2026-05-14 09:38:40,999 | INFO | Token validated for user ID: 1
+2026-05-14 09:38:40,999 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 09:38:41,004 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 09:38:41,026 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0330s
+2026-05-14 09:38:41,034 | INFO | GET | /users/ | Status: 200 | Time: 0.0440s
+2026-05-14 09:38:41,036 | INFO | GET | /orders/all | Status: 200 | Time: 0.0450s
+2026-05-14 09:38:46,698 | INFO | GET | /monitoring | Status: 404 | Time: 0.0000s
+2026-05-14 09:40:45,024 | INFO | OPTIONS | /monitoring/dashboard | Status: 200 | Time: 0.0010s
+2026-05-14 09:40:45,049 | INFO | Token validated for user ID: 1
+2026-05-14 09:40:45,049 | INFO | Token validated for user ID: 1
+2026-05-14 09:40:45,050 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 09:40:45,050 | INFO | Token validated for user ID: 1
+2026-05-14 09:40:45,057 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 09:40:45,061 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0240s
+2026-05-14 09:40:45,067 | INFO | GET | /monitoring/dashboard | Status: 200 | Time: 0.0320s
+2026-05-14 09:40:45,071 | INFO | GET | /orders/all | Status: 200 | Time: 0.0390s
+2026-05-14 09:40:45,077 | INFO | GET | /users/ | Status: 200 | Time: 0.0480s
+2026-05-14 09:41:11,713 | INFO | GET | /performance/cache-test | Status: 200 | Time: 0.0060s
+2026-05-14 09:41:20,964 | INFO | GET | /monitoring/dashboard | Status: 401 | Time: 0.0010s
+2026-05-14 09:41:30,159 | INFO | POST | /users/token | Status: 200 | Time: 0.0122s
+2026-05-14 09:41:33,343 | INFO | GET | /docs | Status: 200 | Time: 0.0010s
+2026-05-14 09:41:33,434 | INFO | GET | /openapi.json | Status: 200 | Time: 0.0010s
+2026-05-14 09:41:38,634 | INFO | GET | /monitoring/dashboard | Status: 401 | Time: 0.0000s
+2026-05-14 09:41:52,537 | INFO | POST | /users/token | Status: 200 | Time: 0.0113s
+2026-05-14 09:41:57,672 | INFO | Token validated for user ID: 1
+2026-05-14 09:41:57,674 | INFO | GET | /monitoring/dashboard | Status: 200 | Time: 0.0040s
+2026-05-14 09:42:06,487 | INFO | OPTIONS | /users/ | Status: 200 | Time: 0.0010s
+2026-05-14 09:42:06,489 | INFO | OPTIONS | /products/search/ | Status: 200 | Time: 0.0020s
+2026-05-14 09:42:06,500 | INFO | Token validated for user ID: 1
+2026-05-14 09:42:06,501 | INFO | Token validated for user ID: 1
+2026-05-14 09:42:06,501 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 09:42:06,505 | INFO | GET | /monitoring/dashboard | Status: 200 | Time: 0.0130s
+2026-05-14 09:42:06,506 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 09:42:06,508 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0150s
+2026-05-14 09:42:06,515 | INFO | GET | /users/ | Status: 200 | Time: 0.0240s
+2026-05-14 09:42:06,517 | INFO | Token validated for user ID: 1
+2026-05-14 09:42:06,523 | INFO | GET | /orders/all | Status: 200 | Time: 0.0320s
+2026-05-14 09:44:06,391 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 09:44:06,392 | INFO | Token validated for user ID: 1
+2026-05-14 09:44:06,392 | INFO | Token validated for user ID: 1
+2026-05-14 09:44:06,392 | INFO | Token validated for user ID: 1
+2026-05-14 09:44:06,401 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 09:44:06,401 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0190s
+2026-05-14 09:44:06,419 | INFO | GET | /monitoring/dashboard | Status: 200 | Time: 0.0370s
+2026-05-14 09:44:06,420 | INFO | GET | /orders/all | Status: 200 | Time: 0.0380s
+2026-05-14 09:44:06,426 | INFO | GET | /users/ | Status: 200 | Time: 0.0450s
+2026-05-14 09:44:10,419 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 09:44:10,424 | INFO | Token validated for user ID: 1
+2026-05-14 09:44:10,425 | INFO | Token validated for user ID: 1
+2026-05-14 09:44:10,426 | INFO | Token validated for user ID: 1
+2026-05-14 09:44:10,430 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0130s
+2026-05-14 09:44:10,432 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 09:44:10,433 | INFO | GET | /monitoring/dashboard | Status: 200 | Time: 0.0160s
+2026-05-14 09:44:10,436 | INFO | GET | /orders/all | Status: 200 | Time: 0.0200s
+2026-05-14 09:44:10,438 | INFO | GET | /users/ | Status: 200 | Time: 0.0220s
+2026-05-14 09:44:18,357 | INFO | Token validated for user ID: 1
+2026-05-14 09:44:18,366 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 09:44:18,377 | INFO | Token validated for user ID: 1
+2026-05-14 09:44:18,380 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 09:44:18,381 | INFO | Token validated for user ID: 1
+2026-05-14 09:44:18,383 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0250s
+2026-05-14 09:44:18,390 | INFO | GET | /users/ | Status: 200 | Time: 0.0360s
+2026-05-14 09:44:18,392 | INFO | GET | /monitoring/dashboard | Status: 200 | Time: 0.0330s
+2026-05-14 09:44:18,394 | INFO | GET | /orders/all | Status: 200 | Time: 0.0360s
+2026-05-14 09:46:06,872 | INFO | User logged in successfully: testfront@gmail.com
+2026-05-14 09:46:06,873 | INFO | POST | /users/login | Status: 200 | Time: 0.0135s
+2026-05-14 09:51:40,068 | INFO | OPTIONS | /orders/ | Status: 200 | Time: 0.0010s
+2026-05-14 09:51:40,076 | INFO | Token validated for user ID: 5
+2026-05-14 09:51:40,082 | INFO | GET | /orders/ | Status: 200 | Time: 0.0100s
+2026-05-14 09:51:53,018 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 09:51:53,021 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 09:51:55,777 | INFO | OPTIONS | /cart/ | Status: 200 | Time: 0.0010s
+2026-05-14 09:51:55,782 | INFO | Token validated for user ID: 5
+2026-05-14 09:51:55,787 | INFO | POST | /cart/ | Status: 400 | Time: 0.0084s
+2026-05-14 09:51:58,130 | INFO | Token validated for user ID: 5
+2026-05-14 09:51:58,133 | INFO | POST | /cart/ | Status: 400 | Time: 0.0060s
+2026-05-14 09:52:00,239 | INFO | Token validated for user ID: 5
+2026-05-14 09:52:00,253 | INFO | POST | /cart/ | Status: 200 | Time: 0.0160s
+2026-05-14 09:52:10,374 | INFO | OPTIONS | /users/login | Status: 200 | Time: 0.0000s
+2026-05-14 09:52:10,388 | INFO | User logged in successfully: admin@gmail.com
+2026-05-14 09:52:10,389 | INFO | POST | /users/login | Status: 200 | Time: 0.0130s
+2026-05-14 09:52:11,892 | INFO | OPTIONS | /users/ | Status: 200 | Time: 0.0010s
+2026-05-14 09:52:11,895 | INFO | OPTIONS | /orders/all | Status: 200 | Time: 0.0010s
+2026-05-14 09:52:11,898 | INFO | OPTIONS | /products/search/ | Status: 200 | Time: 0.0010s
+2026-05-14 09:52:11,901 | INFO | OPTIONS | /monitoring/dashboard | Status: 200 | Time: 0.0030s
+2026-05-14 09:52:11,920 | INFO | Token validated for user ID: 1
+2026-05-14 09:52:11,921 | INFO | Token validated for user ID: 1
+2026-05-14 09:52:11,924 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 09:52:11,932 | INFO | Token validated for user ID: 1
+2026-05-14 09:52:11,937 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 09:52:11,938 | INFO | GET | /orders/all | Status: 200 | Time: 0.0400s
+2026-05-14 09:52:11,942 | INFO | GET | /monitoring/dashboard | Status: 200 | Time: 0.0310s
+2026-05-14 09:52:11,944 | INFO | GET | /users/ | Status: 200 | Time: 0.0460s
+2026-05-14 09:52:11,945 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0370s
+2026-05-14 09:53:11,142 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 09:53:11,143 | INFO | Token validated for user ID: 1
+2026-05-14 09:53:11,147 | INFO | Token validated for user ID: 1
+2026-05-14 09:53:11,149 | INFO | Token validated for user ID: 1
+2026-05-14 09:53:11,150 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0130s
+2026-05-14 09:53:11,153 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 09:53:11,159 | INFO | GET | /monitoring/dashboard | Status: 200 | Time: 0.0220s
+2026-05-14 09:53:11,161 | INFO | GET | /users/ | Status: 200 | Time: 0.0250s
+2026-05-14 09:53:11,162 | INFO | GET | /orders/all | Status: 200 | Time: 0.0250s
+2026-05-14 09:54:22,720 | INFO | Token validated for user ID: 1
+2026-05-14 09:54:22,721 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 09:54:22,722 | INFO | Token validated for user ID: 1
+2026-05-14 09:54:22,723 | INFO | Token validated for user ID: 1
+2026-05-14 09:54:22,730 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 09:54:22,731 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0170s
+2026-05-14 09:54:22,735 | INFO | GET | /monitoring/dashboard | Status: 200 | Time: 0.0210s
+2026-05-14 09:54:22,737 | INFO | GET | /orders/all | Status: 200 | Time: 0.0240s
+2026-05-14 09:54:22,740 | INFO | GET | /users/ | Status: 200 | Time: 0.0280s
+2026-05-14 09:54:30,568 | INFO | Token validated for user ID: 1
+2026-05-14 09:54:30,570 | INFO | GET | /monitoring/dashboard | Status: 200 | Time: 0.0039s
+2026-05-14 09:54:31,235 | INFO | Token validated for user ID: 1
+2026-05-14 09:54:31,237 | INFO | GET | /monitoring/dashboard | Status: 200 | Time: 0.0030s
+2026-05-14 09:54:31,843 | INFO | Token validated for user ID: 1
+2026-05-14 09:54:31,844 | INFO | GET | /monitoring/dashboard | Status: 200 | Time: 0.0030s
+2026-05-14 09:54:32,277 | INFO | Token validated for user ID: 1
+2026-05-14 09:54:32,278 | INFO | GET | /monitoring/dashboard | Status: 200 | Time: 0.0030s
+2026-05-14 09:54:32,652 | INFO | Token validated for user ID: 1
+2026-05-14 09:54:32,653 | INFO | GET | /monitoring/dashboard | Status: 200 | Time: 0.0030s
+2026-05-14 09:54:32,995 | INFO | Token validated for user ID: 1
+2026-05-14 09:54:32,996 | INFO | GET | /monitoring/dashboard | Status: 200 | Time: 0.0029s
+2026-05-14 09:54:33,383 | INFO | Token validated for user ID: 1
+2026-05-14 09:54:33,384 | INFO | GET | /monitoring/dashboard | Status: 200 | Time: 0.0030s
+2026-05-14 09:54:54,290 | INFO | OPTIONS | /orders/1/status | Status: 200 | Time: 0.0011s
+2026-05-14 09:54:54,295 | INFO | Token validated for user ID: 1
+2026-05-14 09:54:54,309 | INFO | Order status updated | order_id=1 | status=delivered | admin_id=1
+2026-05-14 09:54:54,310 | INFO | PUT | /orders/1/status | Status: 200 | Time: 0.0179s
+2026-05-14 09:54:55,427 | INFO | Token validated for user ID: 1
+2026-05-14 09:54:55,430 | INFO | GET | /orders/all | Status: 200 | Time: 0.0070s
+2026-05-14 09:55:14,554 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 09:55:14,558 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0050s
+2026-05-14 09:56:22,537 | INFO | Token validated for user ID: 1
+2026-05-14 09:56:22,537 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 09:56:22,537 | INFO | Token validated for user ID: 1
+2026-05-14 09:56:22,538 | INFO | Token validated for user ID: 1
+2026-05-14 09:56:22,543 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0160s
+2026-05-14 09:56:22,552 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 09:56:22,553 | INFO | GET | /orders/all | Status: 200 | Time: 0.0260s
+2026-05-14 09:56:22,555 | INFO | GET | /monitoring/dashboard | Status: 200 | Time: 0.0280s
+2026-05-14 09:56:22,561 | INFO | GET | /users/ | Status: 200 | Time: 0.0350s
+2026-05-14 09:56:29,899 | INFO | Token validated for user ID: 1
+2026-05-14 09:56:29,902 | INFO | Token validated for user ID: 1
+2026-05-14 09:56:29,902 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 09:56:29,905 | INFO | Token validated for user ID: 1
+2026-05-14 09:56:29,908 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 09:56:29,909 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0120s
+2026-05-14 09:56:29,911 | INFO | GET | /monitoring/dashboard | Status: 200 | Time: 0.0130s
+2026-05-14 09:56:29,913 | INFO | GET | /users/ | Status: 200 | Time: 0.0180s
+2026-05-14 09:56:29,913 | INFO | GET | /orders/all | Status: 200 | Time: 0.0170s
+2026-05-14 09:59:12,064 | INFO | Token validated for user ID: 1
+2026-05-14 09:59:12,065 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 09:59:12,066 | INFO | Token validated for user ID: 1
+2026-05-14 09:59:12,069 | INFO | Token validated for user ID: 1
+2026-05-14 09:59:12,069 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0110s
+2026-05-14 09:59:12,073 | INFO | GET | /monitoring/dashboard | Status: 200 | Time: 0.0150s
+2026-05-14 09:59:12,075 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 09:59:12,078 | INFO | GET | /orders/all | Status: 200 | Time: 0.0210s
+2026-05-14 09:59:12,079 | INFO | GET | /users/ | Status: 200 | Time: 0.0220s
+2026-05-14 09:59:16,949 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 09:59:16,951 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 10:00:12,976 | INFO | Token validated for user ID: 1
+2026-05-14 10:00:12,984 | INFO | Token validated for user ID: 1
+2026-05-14 10:00:12,984 | INFO | Token validated for user ID: 1
+2026-05-14 10:00:12,999 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 10:00:13,013 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 10:00:13,015 | INFO | GET | /monitoring/dashboard | Status: 200 | Time: 0.0900s
+2026-05-14 10:00:13,018 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0930s
+2026-05-14 10:00:13,035 | INFO | GET | /orders/all | Status: 200 | Time: 0.1110s
+2026-05-14 10:00:13,039 | INFO | GET | /users/ | Status: 200 | Time: 0.1150s
+2026-05-14 10:00:50,188 | INFO | Token validated for user ID: 1
+2026-05-14 10:00:50,198 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 10:00:50,205 | INFO | Token validated for user ID: 1
+2026-05-14 10:00:50,208 | INFO | Token validated for user ID: 1
+2026-05-14 10:00:50,210 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 10:00:50,222 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0320s
+2026-05-14 10:00:50,232 | INFO | GET | /monitoring/dashboard | Status: 200 | Time: 0.0400s
+2026-05-14 10:00:50,237 | INFO | GET | /users/ | Status: 200 | Time: 0.0550s
+2026-05-14 10:00:50,241 | INFO | GET | /orders/all | Status: 200 | Time: 0.0510s
+2026-05-14 10:15:03,730 | INFO | GET | /docs | Status: 200 | Time: 0.0010s
+2026-05-14 10:15:03,972 | INFO | GET | /openapi.json | Status: 200 | Time: 0.1060s
+2026-05-14 10:16:30,724 | INFO | GET | /docs | Status: 200 | Time: 0.0009s
+2026-05-14 10:16:30,947 | INFO | GET | /openapi.json | Status: 200 | Time: 0.1130s
+2026-05-14 10:17:14,080 | INFO | OPTIONS | /users/login | Status: 200 | Time: 0.0000s
+2026-05-14 10:17:14,116 | INFO | User logged in successfully: testfront@gmail.com
+2026-05-14 10:17:14,117 | INFO | POST | /users/login | Status: 200 | Time: 0.0340s
+2026-05-14 10:17:20,966 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 10:17:20,971 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0100s
+2026-05-14 10:17:23,224 | INFO | OPTIONS | /cart/ | Status: 200 | Time: 0.0010s
+2026-05-14 10:17:23,231 | INFO | Token validated for user ID: 5
+2026-05-14 10:17:23,237 | INFO | POST | /cart/ | Status: 400 | Time: 0.0110s
+2026-05-14 10:17:28,040 | INFO | Token validated for user ID: 5
+2026-05-14 10:17:28,043 | INFO | POST | /cart/ | Status: 400 | Time: 0.0060s
+2026-05-14 10:17:30,100 | INFO | Token validated for user ID: 5
+2026-05-14 10:17:30,113 | INFO | POST | /cart/ | Status: 200 | Time: 0.0160s
+2026-05-14 10:17:33,661 | INFO | Token validated for user ID: 5
+2026-05-14 10:17:33,665 | INFO | GET | /cart/ | Status: 200 | Time: 0.0110s
+2026-05-14 10:17:33,715 | INFO | Product 2 cached in Redis
+2026-05-14 10:17:33,717 | INFO | GET | /products/2 | Status: 200 | Time: 0.0150s
+2026-05-14 10:17:33,822 | INFO | Product 1 cached in Redis
+2026-05-14 10:17:33,824 | INFO | GET | /products/1 | Status: 200 | Time: 0.0120s
+2026-05-14 10:17:36,695 | INFO | OPTIONS | /cart/1 | Status: 200 | Time: 0.0010s
+2026-05-14 10:17:36,701 | INFO | Token validated for user ID: 5
+2026-05-14 10:17:36,712 | INFO | PUT | /cart/1 | Status: 200 | Time: 0.0150s
+2026-05-14 10:17:36,719 | INFO | Token validated for user ID: 5
+2026-05-14 10:17:36,721 | INFO | GET | /cart/ | Status: 200 | Time: 0.0050s
+2026-05-14 10:17:36,727 | INFO | Product 1 cached in Redis
+2026-05-14 10:17:36,728 | INFO | GET | /products/1 | Status: 200 | Time: 0.0030s
+2026-05-14 10:17:38,364 | INFO | OPTIONS | /cart/2 | Status: 200 | Time: 0.0000s
+2026-05-14 10:17:38,369 | INFO | Token validated for user ID: 5
+2026-05-14 10:17:38,379 | INFO | PUT | /cart/2 | Status: 200 | Time: 0.0130s
+2026-05-14 10:17:38,384 | INFO | Token validated for user ID: 5
+2026-05-14 10:17:38,387 | INFO | GET | /cart/ | Status: 200 | Time: 0.0050s
+2026-05-14 10:17:38,395 | INFO | Product 1 cached in Redis
+2026-05-14 10:17:38,397 | INFO | GET | /products/1 | Status: 200 | Time: 0.0050s
+2026-05-14 10:17:39,166 | INFO | OPTIONS | /cart/2 | Status: 200 | Time: 0.0010s
+2026-05-14 10:17:39,171 | INFO | Token validated for user ID: 5
+2026-05-14 10:17:39,182 | INFO | PUT | /cart/2 | Status: 200 | Time: 0.0140s
+2026-05-14 10:17:39,189 | INFO | Token validated for user ID: 5
+2026-05-14 10:17:39,192 | INFO | GET | /cart/ | Status: 200 | Time: 0.0060s
+2026-05-14 10:17:39,202 | INFO | Product 1 cached in Redis
+2026-05-14 10:17:39,203 | INFO | GET | /products/1 | Status: 200 | Time: 0.0060s
+2026-05-14 10:23:04,069 | INFO | User logged in successfully: admin@gmail.com
+2026-05-14 10:23:04,070 | INFO | POST | /users/login | Status: 200 | Time: 0.0160s
+2026-05-14 10:23:05,421 | INFO | OPTIONS | /users/ | Status: 200 | Time: 0.0010s
+2026-05-14 10:23:05,425 | INFO | OPTIONS | /orders/all | Status: 200 | Time: 0.0010s
+2026-05-14 10:23:05,428 | INFO | OPTIONS | /products/search/ | Status: 200 | Time: 0.0020s
+2026-05-14 10:23:05,438 | INFO | OPTIONS | /categories/ | Status: 200 | Time: 0.0110s
+2026-05-14 10:23:05,441 | INFO | OPTIONS | /monitoring/dashboard | Status: 200 | Time: 0.0140s
+2026-05-14 10:23:05,501 | INFO | Token validated for user ID: 1
+2026-05-14 10:23:05,510 | INFO | Token validated for user ID: 1
+2026-05-14 10:23:05,527 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 10:23:05,535 | INFO | Token validated for user ID: 1
+2026-05-14 10:23:05,541 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 10:23:05,542 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0680s
+2026-05-14 10:23:05,546 | INFO | GET | /categories/ | Status: 200 | Time: 0.0490s
+2026-05-14 10:23:05,547 | INFO | GET | /monitoring/dashboard | Status: 200 | Time: 0.0700s
+2026-05-14 10:23:05,548 | INFO | GET | /orders/all | Status: 200 | Time: 0.1060s
+2026-05-14 10:23:05,550 | INFO | GET | /users/ | Status: 200 | Time: 0.1170s
+2026-05-14 10:23:27,840 | INFO | OPTIONS | /categories/ | Status: 200 | Time: 0.0000s
+2026-05-14 10:23:27,846 | INFO | Token validated for user ID: 1
+2026-05-14 10:23:27,858 | INFO | POST | /categories/ | Status: 200 | Time: 0.0160s
+2026-05-14 10:23:29,215 | INFO | GET | /categories/ | Status: 200 | Time: 0.0050s
+2026-05-14 10:23:30,764 | INFO | Token validated for user ID: 1
+2026-05-14 10:23:30,771 | INFO | Token validated for user ID: 1
+2026-05-14 10:23:30,772 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 10:23:30,790 | INFO | Token validated for user ID: 1
+2026-05-14 10:23:30,794 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 10:23:30,796 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0360s
+2026-05-14 10:23:30,799 | INFO | GET | /categories/ | Status: 200 | Time: 0.0340s
+2026-05-14 10:23:30,808 | INFO | GET | /orders/all | Status: 200 | Time: 0.0580s
+2026-05-14 10:23:30,810 | INFO | GET | /users/ | Status: 200 | Time: 0.0620s
+2026-05-14 10:23:30,814 | INFO | GET | /monitoring/dashboard | Status: 200 | Time: 0.0540s
+2026-05-14 10:23:40,138 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 10:23:40,141 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 10:23:46,023 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 10:23:46,025 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 10:23:48,440 | INFO | Product search executed | name=None, category_id=1, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 10:23:48,443 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0042s
+2026-05-14 10:23:49,290 | INFO | Product search executed | name=None, category_id=2, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 10:23:49,292 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 10:23:51,640 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 10:23:51,642 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 10:24:08,149 | INFO | GET | /categories/ | Status: 200 | Time: 0.0030s
+2026-05-14 10:25:28,041 | INFO | Token validated for user ID: 1
+2026-05-14 10:25:28,043 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 10:25:28,043 | INFO | Token validated for user ID: 1
+2026-05-14 10:25:28,047 | INFO | Token validated for user ID: 1
+2026-05-14 10:25:28,053 | INFO | GET | /categories/ | Status: 200 | Time: 0.0200s
+2026-05-14 10:25:28,060 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 10:25:28,061 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0300s
+2026-05-14 10:25:28,071 | INFO | GET | /monitoring/dashboard | Status: 200 | Time: 0.0380s
+2026-05-14 10:25:28,072 | INFO | GET | /users/ | Status: 200 | Time: 0.0410s
+2026-05-14 10:25:28,073 | INFO | GET | /orders/all | Status: 200 | Time: 0.0420s
+2026-05-14 10:25:58,186 | INFO | Token validated for user ID: 1
+2026-05-14 10:25:58,186 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 10:25:58,188 | INFO | Token validated for user ID: 1
+2026-05-14 10:25:58,191 | INFO | Token validated for user ID: 1
+2026-05-14 10:25:58,198 | INFO | GET | /categories/ | Status: 200 | Time: 0.0200s
+2026-05-14 10:25:58,200 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 10:25:58,203 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0250s
+2026-05-14 10:25:58,208 | INFO | GET | /orders/all | Status: 200 | Time: 0.0300s
+2026-05-14 10:25:58,211 | INFO | GET | /users/ | Status: 200 | Time: 0.0340s
+2026-05-14 10:25:58,213 | INFO | GET | /monitoring/dashboard | Status: 200 | Time: 0.0350s
+2026-05-14 10:26:17,717 | INFO | User logged in successfully: testfront@gmail.com
+2026-05-14 10:26:17,718 | INFO | POST | /users/login | Status: 200 | Time: 0.0140s
+2026-05-14 10:26:26,673 | INFO | Token validated for user ID: 5
+2026-05-14 10:26:26,675 | INFO | GET | /users/ | Status: 403 | Time: 0.0050s
+2026-05-14 10:26:36,384 | INFO | User logged in successfully: admin@gmail.com
+2026-05-14 10:26:36,385 | INFO | POST | /users/login | Status: 200 | Time: 0.0130s
+2026-05-14 10:26:37,925 | INFO | Token validated for user ID: 1
+2026-05-14 10:26:37,927 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 10:26:37,929 | INFO | GET | /users/ | Status: 200 | Time: 0.0080s
+2026-05-14 10:26:37,945 | INFO | Token validated for user ID: 1
+2026-05-14 10:26:37,960 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 10:26:37,969 | INFO | Token validated for user ID: 1
+2026-05-14 10:26:37,973 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0360s
+2026-05-14 10:26:37,976 | INFO | GET | /categories/ | Status: 200 | Time: 0.0330s
+2026-05-14 10:26:37,977 | INFO | GET | /orders/all | Status: 200 | Time: 0.0410s
+2026-05-14 10:26:37,989 | INFO | GET | /monitoring/dashboard | Status: 200 | Time: 0.0470s
+2026-05-14 10:30:37,651 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 10:30:37,653 | INFO | Token validated for user ID: 1
+2026-05-14 10:30:37,654 | INFO | Token validated for user ID: 1
+2026-05-14 10:30:37,655 | INFO | Token validated for user ID: 1
+2026-05-14 10:30:37,659 | INFO | GET | /categories/ | Status: 200 | Time: 0.0130s
+2026-05-14 10:30:37,660 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 10:30:37,662 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0170s
+2026-05-14 10:30:37,662 | INFO | GET | /monitoring/dashboard | Status: 200 | Time: 0.0160s
+2026-05-14 10:30:37,665 | INFO | GET | /orders/all | Status: 200 | Time: 0.0200s
+2026-05-14 10:30:37,666 | INFO | GET | /users/ | Status: 200 | Time: 0.0220s
+2026-05-14 10:30:46,637 | INFO | OPTIONS | /users/login | Status: 200 | Time: 0.0000s
+2026-05-14 10:30:46,651 | INFO | User logged in successfully: testfront@gmail.com
+2026-05-14 10:30:46,654 | INFO | POST | /users/login | Status: 200 | Time: 0.0150s
+2026-05-14 10:30:52,747 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 10:30:52,749 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 10:30:57,887 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 10:30:57,890 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0031s
+2026-05-14 10:30:58,713 | INFO | Product search executed | name=None, category_id=1, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 10:30:58,715 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 10:30:59,613 | INFO | Product search executed | name=None, category_id=2, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 10:30:59,615 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 10:31:01,611 | INFO | Product search executed | name=None, category_id=3, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 10:31:01,613 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0034s
+2026-05-14 10:31:02,515 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 10:31:02,516 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0020s
+2026-05-14 10:31:07,586 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 10:31:07,588 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 10:31:12,392 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 10:31:12,395 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 10:31:12,946 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 10:31:12,949 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 10:32:17,490 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 10:32:17,493 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0050s
+2026-05-14 10:32:18,766 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 10:32:18,769 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 10:32:57,668 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 10:32:57,670 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 10:33:32,600 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 10:33:32,603 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0050s
+2026-05-14 10:33:35,281 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 10:33:35,282 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0029s
+2026-05-14 10:33:36,896 | INFO | Product search executed | name=None, category_id=1, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 10:33:36,898 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 10:33:37,567 | INFO | Product search executed | name=None, category_id=2, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 10:33:37,569 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 10:33:39,216 | INFO | Product search executed | name=None, category_id=3, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 10:33:39,218 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0030s
+2026-05-14 10:33:47,072 | INFO | User logged in successfully: admin@gmail.com
+2026-05-14 10:33:47,072 | INFO | POST | /users/login | Status: 200 | Time: 0.0120s
+2026-05-14 10:33:48,362 | INFO | OPTIONS | /users/ | Status: 200 | Time: 0.0010s
+2026-05-14 10:33:48,368 | INFO | OPTIONS | /products/search/ | Status: 200 | Time: 0.0000s
+2026-05-14 10:33:48,374 | INFO | OPTIONS | /orders/all | Status: 200 | Time: 0.0030s
+2026-05-14 10:33:48,378 | INFO | OPTIONS | /categories/ | Status: 200 | Time: 0.0060s
+2026-05-14 10:33:48,379 | INFO | OPTIONS | /monitoring/dashboard | Status: 200 | Time: 0.0070s
+2026-05-14 10:33:48,383 | INFO | Token validated for user ID: 1
+2026-05-14 10:33:48,389 | INFO | Token validated for user ID: 1
+2026-05-14 10:33:48,391 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 10:33:48,398 | INFO | Token validated for user ID: 1
+2026-05-14 10:33:48,398 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 10:33:48,401 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0200s
+2026-05-14 10:33:48,403 | INFO | GET | /categories/ | Status: 200 | Time: 0.0210s
+2026-05-14 10:33:48,405 | INFO | GET | /users/ | Status: 200 | Time: 0.0380s
+2026-05-14 10:33:48,408 | INFO | GET | /monitoring/dashboard | Status: 200 | Time: 0.0230s
+2026-05-14 10:33:48,409 | INFO | GET | /orders/all | Status: 200 | Time: 0.0280s
+2026-05-14 10:33:55,825 | INFO | OPTIONS | /categories/4 | Status: 200 | Time: 0.0000s
+2026-05-14 10:33:55,831 | INFO | Token validated for user ID: 1
+2026-05-14 10:33:55,845 | INFO | DELETE | /categories/4 | Status: 200 | Time: 0.0180s
+2026-05-14 10:33:58,232 | INFO | GET | /categories/ | Status: 200 | Time: 0.0030s
+2026-05-14 10:34:01,340 | INFO | Token validated for user ID: 1
+2026-05-14 10:34:01,342 | INFO | GET | /monitoring/dashboard | Status: 200 | Time: 0.0040s
+2026-05-14 11:06:27,698 | INFO | GET | /docs | Status: 200 | Time: 0.0010s
+2026-05-14 11:06:27,888 | INFO | GET | /openapi.json | Status: 200 | Time: 0.0600s
+2026-05-14 11:07:10,050 | INFO | GET | /docs | Status: 200 | Time: 0.0000s
+2026-05-14 11:07:10,101 | INFO | GET | /openapi.json | Status: 200 | Time: 0.0000s
+2026-05-14 11:09:37,817 | INFO | OPTIONS | /users/ | Status: 200 | Time: 0.0020s
+2026-05-14 11:09:37,819 | INFO | OPTIONS | /orders/all | Status: 200 | Time: 0.0030s
+2026-05-14 11:09:37,820 | INFO | OPTIONS | /categories/ | Status: 200 | Time: 0.0040s
+2026-05-14 11:09:37,821 | INFO | OPTIONS | /monitoring/dashboard | Status: 200 | Time: 0.0040s
+2026-05-14 11:09:37,822 | INFO | OPTIONS | /products/search/ | Status: 200 | Time: 0.0050s
+2026-05-14 11:09:37,922 | ERROR | JWT token validation failed
+2026-05-14 11:09:37,939 | ERROR | JWT token validation failed
+2026-05-14 11:09:37,939 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 11:09:37,939 | ERROR | JWT token validation failed
+2026-05-14 11:09:37,946 | INFO | GET | /users/ | Status: 401 | Time: 0.1200s
+2026-05-14 11:09:37,947 | INFO | GET | /monitoring/dashboard | Status: 401 | Time: 0.0750s
+2026-05-14 11:09:37,948 | INFO | GET | /categories/ | Status: 200 | Time: 0.0920s
+2026-05-14 11:09:37,950 | INFO | GET | /orders/all | Status: 401 | Time: 0.0540s
+2026-05-14 11:09:37,951 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0790s
+2026-05-14 11:09:41,123 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 11:09:41,123 | ERROR | JWT token validation failed
+2026-05-14 11:09:41,124 | ERROR | JWT token validation failed
+2026-05-14 11:09:41,129 | ERROR | JWT token validation failed
+2026-05-14 11:09:41,135 | INFO | GET | /users/ | Status: 401 | Time: 0.0170s
+2026-05-14 11:09:41,137 | INFO | GET | /categories/ | Status: 200 | Time: 0.0170s
+2026-05-14 11:09:41,146 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0270s
+2026-05-14 11:09:41,155 | INFO | GET | /orders/all | Status: 401 | Time: 0.0360s
+2026-05-14 11:09:41,160 | INFO | GET | /monitoring/dashboard | Status: 401 | Time: 0.0410s
+2026-05-14 11:09:43,880 | INFO | GET | /docs | Status: 200 | Time: 0.0000s
+2026-05-14 11:09:43,949 | INFO | GET | /openapi.json | Status: 200 | Time: 0.0010s
+2026-05-14 11:09:44,757 | INFO | GET | /docs | Status: 200 | Time: 0.0010s
+2026-05-14 11:09:44,795 | ERROR | JWT token validation failed
+2026-05-14 11:09:44,798 | ERROR | JWT token validation failed
+2026-05-14 11:09:44,801 | ERROR | JWT token validation failed
+2026-05-14 11:09:44,802 | INFO | GET | /users/ | Status: 401 | Time: 0.0130s
+2026-05-14 11:09:44,804 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 11:09:44,814 | INFO | GET | /orders/all | Status: 401 | Time: 0.0210s
+2026-05-14 11:09:44,820 | INFO | GET | /monitoring/dashboard | Status: 401 | Time: 0.0240s
+2026-05-14 11:09:44,829 | INFO | GET | /categories/ | Status: 200 | Time: 0.0310s
+2026-05-14 11:09:44,832 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0340s
+2026-05-14 11:09:44,857 | INFO | GET | /openapi.json | Status: 200 | Time: 0.0010s
+2026-05-14 11:09:51,628 | INFO | GET | /docs | Status: 200 | Time: 0.0000s
+2026-05-14 11:09:51,670 | ERROR | JWT token validation failed
+2026-05-14 11:09:51,673 | ERROR | JWT token validation failed
+2026-05-14 11:09:51,675 | ERROR | JWT token validation failed
+2026-05-14 11:09:51,680 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 11:09:51,693 | INFO | GET | /orders/all | Status: 401 | Time: 0.0320s
+2026-05-14 11:09:51,694 | INFO | GET | /users/ | Status: 401 | Time: 0.0350s
+2026-05-14 11:09:51,702 | INFO | GET | /monitoring/dashboard | Status: 401 | Time: 0.0380s
+2026-05-14 11:09:51,705 | INFO | GET | /categories/ | Status: 200 | Time: 0.0370s
+2026-05-14 11:09:51,706 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0390s
+2026-05-14 11:09:51,729 | INFO | GET | /openapi.json | Status: 200 | Time: 0.0010s
+2026-05-14 11:10:00,479 | INFO | OPTIONS | /users/login | Status: 200 | Time: 0.0000s
+2026-05-14 11:10:00,514 | INFO | User logged in successfully: admin@gmail.com
+2026-05-14 11:10:00,515 | INFO | POST | /users/login | Status: 200 | Time: 0.0310s
+2026-05-14 11:10:01,794 | INFO | Token validated for user ID: 1
+2026-05-14 11:10:01,800 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 11:10:01,811 | INFO | Token validated for user ID: 1
+2026-05-14 11:10:01,811 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 11:10:01,817 | INFO | GET | /users/ | Status: 200 | Time: 0.0250s
+2026-05-14 11:10:01,821 | INFO | Token validated for user ID: 1
+2026-05-14 11:10:01,825 | INFO | GET | /categories/ | Status: 200 | Time: 0.0250s
+2026-05-14 11:10:01,826 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0260s
+2026-05-14 11:10:01,831 | INFO | GET | /monitoring/dashboard | Status: 200 | Time: 0.0300s
+2026-05-14 11:10:01,834 | INFO | GET | /orders/all | Status: 200 | Time: 0.0350s
+2026-05-14 11:10:18,534 | INFO | OPTIONS | /products/3 | Status: 200 | Time: 0.0010s
+2026-05-14 11:10:18,540 | INFO | Token validated for user ID: 1
+2026-05-14 11:10:18,551 | INFO | Product updated: Red Shoes
+2026-05-14 11:10:18,553 | INFO | PUT | /products/3 | Status: 200 | Time: 0.0168s
+2026-05-14 11:10:19,843 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 11:10:19,848 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0070s
+2026-05-14 11:10:21,837 | INFO | Token validated for user ID: 1
+2026-05-14 11:10:21,841 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 11:10:21,847 | INFO | Token validated for user ID: 1
+2026-05-14 11:10:21,848 | INFO | Token validated for user ID: 1
+2026-05-14 11:10:21,848 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 11:10:21,854 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0210s
+2026-05-14 11:10:21,860 | INFO | GET | /categories/ | Status: 200 | Time: 0.0260s
+2026-05-14 11:10:21,862 | INFO | GET | /users/ | Status: 200 | Time: 0.0320s
+2026-05-14 11:10:21,866 | INFO | GET | /monitoring/dashboard | Status: 200 | Time: 0.0320s
+2026-05-14 11:10:21,873 | INFO | GET | /orders/all | Status: 200 | Time: 0.0400s
+2026-05-14 11:10:30,592 | INFO | OPTIONS | /orders/1/status | Status: 200 | Time: 0.0010s
+2026-05-14 11:10:30,602 | INFO | Token validated for user ID: 1
+2026-05-14 11:10:30,619 | INFO | Order status updated | order_id=1 | status=shipped | admin_id=1
+2026-05-14 11:10:30,620 | INFO | PUT | /orders/1/status | Status: 200 | Time: 0.0246s
+2026-05-14 11:10:32,094 | INFO | Token validated for user ID: 1
+2026-05-14 11:10:32,098 | INFO | GET | /orders/all | Status: 200 | Time: 0.0080s
+2026-05-14 11:11:00,464 | INFO | User logged in successfully: testfront@gmail.com
+2026-05-14 11:11:00,465 | INFO | POST | /users/login | Status: 200 | Time: 0.0230s
+2026-05-14 11:13:03,413 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 11:13:03,418 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0070s
+2026-05-14 11:13:05,951 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 11:13:05,955 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0060s
+2026-05-14 11:13:06,715 | INFO | Product search executed | name=None, category_id=1, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 11:13:06,720 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0080s
+2026-05-14 11:13:07,568 | INFO | Product search executed | name=None, category_id=2, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 11:13:07,570 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0031s
+2026-05-14 11:13:09,190 | INFO | Product search executed | name=None, category_id=3, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 11:13:09,194 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0075s
+2026-05-14 11:13:11,519 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 11:13:11,522 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0059s
+2026-05-14 11:13:13,631 | INFO | Product search executed | name=n, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 11:13:13,636 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0080s
+2026-05-14 11:13:14,099 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 11:13:14,103 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0082s
+2026-05-14 11:13:20,540 | INFO | Product search executed | name=None, category_id=None, min_price=1000.0, max_price=1200.0, page=1, limit=8
+2026-05-14 11:13:20,547 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0105s
+2026-05-14 11:13:22,974 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=8
+2026-05-14 11:13:22,976 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 11:13:26,614 | INFO | OPTIONS | /cart/ | Status: 200 | Time: 0.0009s
+2026-05-14 11:13:26,640 | INFO | Token validated for user ID: 5
+2026-05-14 11:13:26,651 | INFO | POST | /cart/ | Status: 200 | Time: 0.0325s
+2026-05-14 11:13:29,509 | INFO | Token validated for user ID: 5
+2026-05-14 11:13:29,512 | INFO | GET | /cart/ | Status: 200 | Time: 0.0100s
+2026-05-14 11:13:29,548 | INFO | Product 1 cached in Redis
+2026-05-14 11:13:29,551 | INFO | GET | /products/1 | Status: 200 | Time: 0.0090s
+2026-05-14 11:13:31,949 | INFO | OPTIONS | /cart/2 | Status: 200 | Time: 0.0000s
+2026-05-14 11:13:31,957 | INFO | Token validated for user ID: 5
+2026-05-14 11:13:31,972 | INFO | PUT | /cart/2 | Status: 200 | Time: 0.0183s
+2026-05-14 11:13:31,978 | INFO | Token validated for user ID: 5
+2026-05-14 11:13:31,981 | INFO | GET | /cart/ | Status: 200 | Time: 0.0060s
+2026-05-14 11:13:31,988 | INFO | Product 1 cached in Redis
+2026-05-14 11:13:31,989 | INFO | GET | /products/1 | Status: 200 | Time: 0.0040s
+2026-05-14 11:13:33,834 | INFO | OPTIONS | /orders/ | Status: 200 | Time: 0.0009s
+2026-05-14 11:13:33,845 | INFO | Token validated for user ID: 5
+2026-05-14 11:13:33,881 | INFO | POST | /orders/ | Status: 200 | Time: 0.0440s
+2026-05-14 11:13:35,646 | INFO | Token validated for user ID: 5
+2026-05-14 11:13:35,651 | INFO | GET | /orders/ | Status: 200 | Time: 0.0090s
+2026-05-14 12:32:58,585 | INFO | OPTIONS | /users/login | Status: 200 | Time: 0.0010s
+2026-05-14 12:32:58,618 | INFO | User logged in successfully: admin@gmail.com
+2026-05-14 12:32:58,619 | INFO | POST | /users/login | Status: 200 | Time: 0.0319s
+2026-05-14 12:33:00,301 | INFO | OPTIONS | /users/ | Status: 200 | Time: 0.0010s
+2026-05-14 12:33:00,307 | INFO | OPTIONS | /orders/all | Status: 200 | Time: 0.0040s
+2026-05-14 12:33:00,321 | INFO | OPTIONS | /products/search/ | Status: 200 | Time: 0.0040s
+2026-05-14 12:33:00,323 | INFO | OPTIONS | /categories/ | Status: 200 | Time: 0.0060s
+2026-05-14 12:33:00,326 | INFO | OPTIONS | /monitoring/dashboard | Status: 200 | Time: 0.0079s
+2026-05-14 12:33:00,345 | INFO | Token validated for user ID: 1
+2026-05-14 12:33:00,357 | INFO | Token validated for user ID: 1
+2026-05-14 12:33:00,368 | INFO | Token validated for user ID: 1
+2026-05-14 12:33:00,369 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 12:33:00,375 | INFO | Admin retrieved all users | admin_id=1
+2026-05-14 12:33:00,376 | INFO | GET | /categories/ | Status: 200 | Time: 0.0410s
+2026-05-14 12:33:00,386 | INFO | GET | /monitoring/dashboard | Status: 200 | Time: 0.0500s
+2026-05-14 12:33:00,398 | INFO | GET | /users/ | Status: 200 | Time: 0.0850s
+2026-05-14 12:33:00,399 | INFO | GET | /orders/all | Status: 200 | Time: 0.0800s
+2026-05-14 12:33:00,400 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0490s
+2026-05-14 13:24:44,934 | INFO | OPTIONS | /users/ | Status: 200 | Time: 0.0010s
+2026-05-14 13:24:44,939 | INFO | OPTIONS | /orders/all | Status: 200 | Time: 0.0025s
+2026-05-14 13:24:44,940 | INFO | OPTIONS | /products/search/ | Status: 200 | Time: 0.0035s
+2026-05-14 13:24:44,945 | INFO | OPTIONS | /monitoring/dashboard | Status: 200 | Time: 0.0070s
+2026-05-14 13:24:44,956 | INFO | OPTIONS | /categories/ | Status: 200 | Time: 0.0175s
+2026-05-14 13:24:44,977 | ERROR | JWT token validation failed
+2026-05-14 13:24:44,986 | INFO | Product search executed | name=None, category_id=None, min_price=None, max_price=None, page=1, limit=100
+2026-05-14 13:24:44,986 | ERROR | JWT token validation failed
+2026-05-14 13:24:45,005 | ERROR | JWT token validation failed
+2026-05-14 13:24:45,006 | INFO | GET | /users/ | Status: 401 | Time: 0.0621s
+2026-05-14 13:24:45,009 | INFO | GET | /monitoring/dashboard | Status: 401 | Time: 0.0451s
+2026-05-14 13:24:45,015 | INFO | GET | /products/search/ | Status: 200 | Time: 0.0507s
+2026-05-14 13:24:45,018 | INFO | GET | /categories/ | Status: 200 | Time: 0.0471s
+2026-05-14 13:24:45,021 | INFO | GET | /orders/all | Status: 401 | Time: 0.0527s
